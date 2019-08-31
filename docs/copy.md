@@ -112,3 +112,44 @@ The quickest ways to iron out bugs in a solution is to have a comprehensive test
 
 ## Final Delivery
 After everyone is happy with the tests, the project will go live. You will be using what was built in your business. In addition to the project, Intellisolve will provide useful documents like user manuals and documentation about the solutions so it could be taken over at a future date if needed.
+
+
+# Our Services
+## Statistical Modelling
+A statistical model takes the guesswork out of thinking there are patterns in your data. Using a statistical model, you can mathematically prove if there are relationships between elements of a dataset and if so you can assign a number to the degree of the relationship. When you model real world data, relationships are a grey area. There are exceptions to rules due to the complexity of real world interactions. Intellisolve sets up statistical models the same way as financial models, focusing on the business need first and building the model around that.
+
+## Data Modelling
+When modelling complex processes, it helps to have an abstract simplified view of the data. It gives you a better understanding of the components in the process and allow you to make more informed decisions based on a better understanding of the data. A good data model is structured around its usefulness to the business and how it contributes to achieving business objectives.
+
+## Custom Dashboards
+A dashboard is a tool that helps organisations track how they are performing against a given objective. It provides information about Key Performance Indicators (KPIs) and metrics. Dashboards often make use of data visualizations as a means of making sense of complex data sets. They help to summarize a situation and helps users quickly draw conclusions on what the data is trying to tell them.
+
+## Financial Data Analysis
+Financial Data Analysis is the process of carrying out data analysis on financial data. A financial data data analysis project has the same features of a data analysis project in that each of the stages are carried out to achieve a specific goal.
+
+## Business Case Development
+Before creating a business case, it is best to start out with the business objectives and what the plan is to measure these. Once the objectives are worked out, the business case can then be built around these. Intellisolve have a standard methodology of delivering business centric business cases, working out the customer objectives first so stakeholders will be focused on this throughout the process.
+
+## Financial Modelling
+Financial modeling is the task of building an abstract representation (a model) of a real world financial situation. This is a mathematical model designed to represent (a simplified version of) the performance of a financial asset or portfolio of a business, project, or any other investment.
+
+## Management Reports
+Financial and Management Reporting give you feedback on how well your business is achieving its objectives. Financial reporting is a standard set of reports that all businesses need to produce to communicate with external stakeholders. It is a legal requirement that they are created in a particular format. Management Reporting is mainly used for the stakeholders running the business. They are a bespoke internally focused set of reports carefully considered to track to the objectives of the company.
+
+## Data Insight
+Data insight is the process of extracting useful information from data. Useful in a business setting is information that will help your organisation achieve their goals. The objectives of insight projects should align with the business objectives. Although an insight project is a one off process, the outcomes will eventually be taken over by the business as it adapts to the new information.
+
+## Advisory
+Getting data analysts involved in complex programs early in the process pays off in the future. As solutions become increasingly complex the cost of fixing problems later increases exponentially.
+Advice from an experienced data analyst who can understand your requirements can suggest organising data and process requirements around the program requirements giving you a higher likelihood of success.
+Intellisolve has acted in the capacity of adviser in large scale programs organizing and structuring data and processes early so program management has access to information when they need it.
+
+## Process Automation
+ Automating processes is an opportunity of making your organisation more efficient. Automation can save time and improve accuracy and allows you to take on more than you normally would have during a manual process. We have the technical expertise and experience automating data processes and reporting using popular frameworks such as Excel VBA and the Python programming language.
+
+## Data Migration
+A well managed data migration will ensure only the required information will be moved across to the new system or process. Validation and ownership must be put in place where the business owners sign off on the data when taking it over. A stakeholder must take on responsibility of the data. Because of this, communication is a key element of a successful data migration project.
+
+## Golden Sources
+A single version of the truth is a business intelligence term which means reducing ambiguity about an organisations data by storing it in one place. A common problem in organisations is that silos of the same data start to emerge in different areas of the organisation which invariably start to contradict each other. Making sure all users of the same data draw from the same source is essential for users to have confidence in the data and minimize errors in reporting. Intellisolve has a standard methodology in creating these Golden Sources on data.
+ 

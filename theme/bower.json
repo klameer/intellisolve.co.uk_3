@@ -1,0 +1,22 @@
+{
+  "name": "intellisolve.co.uk_2",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Karim Lameer"
+  ],
+  "license": "ISC",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "^5.9.0",
+    "bootstrap": "4"
+  }
+}

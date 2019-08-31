@@ -1,0 +1,173 @@
+/*
+Colors
+#132A59 - Navy Space Cadet
+#ECBC8B - Pale Gold
+#F7F7F7 - White Smoke
+#B73844 - Deep Chesnut
+#2E4057 - Charcoal
+*/
+
+$one: #132A59;
+$two: #ECBC8B;
+$three: #F7F7F7;
+$four: #B73844;
+$five: #2E4057;
+
+html body{
+  height: 100%;
+  width:100%;
+  color: #222;
+}
+
+.navbar{
+  padding: 0.8rem;
+}
+
+.navbar-brand{
+  color: #fff;
+}
+
+.navbar-brand:hover{
+  color: $two;
+}
+
+.navbar nav{
+  padding-right: 20px;
+}
+
+.nav-link{
+  font-size: 1.1em !important;
+}
+
+.navbar-custom{
+  background-color: $one;
+}
+
+.nav-item a{
+  color: white;
+}
+
+.nav-item a:hover{
+  color: $two;
+}
+
+.btn-primary{
+  background-color: $four;
+  border: 1px solid $two;
+}
+
+.btn-primary:hover{
+  background-color: $one;
+  border: 1px solid $two;
+}
+
+.home-image, .home-services, .home-applications, .home-connect{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.home-image img{
+   max-height: 30vw;
+}
+
+.home-image h1{
+  font-size: calc(15px + 2vw);
+}
+
+.home-services, .home-applications{
+   text-align: center;
+}
+
+.home-services img, .home-applications img{
+    height: 3rem;
+}
+
+.home-services-item, .home-applications-item{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width:85%;
+    margin:auto;
+}
+
+.home-services-item h4, .home-applications-item h4{
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.home-services-item p, .home-applications-item p{
+  height: 5rem;
+  overflow: hidden;
+}
+
+.navbar-toggler i{
+  color: $four; /* change to purple */
+}
+
+.social a{
+  font-size: 2em;
+  padding: 1rem;
+  color: $four;
+}
+
+.social a:hover{
+  color: $one;
+}
+
+footer{
+  background-color: $one;
+  color: $three;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+hr.light{
+  border-top: 1px solid #d5d5d5;
+  width: 75%;
+  margin-top: .8rem;
+  margin-bottom: 1rem;
+}
+
+footer a{
+  color: #d5d5d5;
+}
+
+hr.light-100{
+  border-top: 1px solid #d5d5d5;
+  width: 100%;
+  margin-top: .8rem;
+  margin-bottom: 1.8rem;
+}
+
+/* Media Queries */
+@media (max-width: 992px){
+  .social a{
+    font-size: 2em;
+    padding: 1rem;
+  }
+}
+@media (max-width: 768px){
+  .display-4{
+    font-size: 200%;
+  }
+}
+
+@media (max-width: 576px){
+
+}
+
+/*
+Extra small (xs) devices (portrait phones, less than 576px)
+No media query since this is the default in Bootstrap
+
+Small (sm) devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+Medium (md) devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+Large (lg) devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+Extra (xl) large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+*/

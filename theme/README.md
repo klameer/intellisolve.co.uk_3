@@ -1,4 +1,4 @@
-# intellisolve.co.uk number 2
+# intellisolve.co.uk number 3
 
 Second stab at intellisolve.co.uk
 The final objective is to have a Python Pelican static website based blog
@@ -20,6 +20,10 @@ And a process to move this to the new Pelican implementation in intellisolve.co.
 
 Pages for
  - General Page template for all the dropdowns
+
+# Where to go for assets
+https://undraw.co
+
 
 # Commands
 

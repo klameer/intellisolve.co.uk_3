@@ -60,12 +60,14 @@ Probably the most underused application in the MS Office suite. Gives you the ab
 
 ## Python
 A general purpose programming language that could be used to solve business problems. Python has a widely used set of libraries that can be used to do things like data processing, statistics, data visualisation and even building web applications.
+Python Pandas. 
+SciKitLearn
 
 
 
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjk3NDMxMiwtMTU3MTExMDk4NiwxMT
-k5ODE1ODQ4LC0xNTMxMDI4OTgyLDE2MDY1NTU0MF19
+eyJoaXN0b3J5IjpbLTExNzA5MzQ3NjgsLTE1NzExMTA5ODYsMT
+E5OTgxNTg0OCwtMTUzMTAyODk4MiwxNjA2NTU1NDBdfQ==
 -->

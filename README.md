@@ -37,9 +37,14 @@ Data migration done the right way will bear fruit in the future. We have a metho
 A well managed data migration will ensure only the required information will be moved across to the new system or process. Validation and ownership must be put in place where the business owners sign off on the data when taking it over. A stakeholder must take on responsibility of the data. Because of this, communication is a key element of a successful data migration project.
 
 ## Golden Sources
-A single version of the truth is a business intelligence term which means reducing ambiguity about an organisations data by storing it in one place. A common problem in organisations is that silos of the same data start to emerge in different areas of the organisation which invariably start to contradict each other. Making sure all users of the same data draw from the same source is essential for users to have confidence in the data and minimize errors in reporting. Intellisolve has a standard methodology in creating these Golden Sources on data.
+A single version of the truth is a business intelligence term which means reducing ambiguity about an organisations data by storing it in one place. A common problem in organisations is that silos of the same data start to emerge in different areas of the organisation which invariably start to contradict each other. Making sure all users of the same data draw from the same source is essential for users to have confidence in the data and minimise errors in reporting. Intellisolve has a standard methodology in creating these Golden Sources on data.
+
+## Advisory
+Getting data analysts involved in complex programs early in the process pays off in the future. As solutions become increasingly complex the cost of fixing problems later increases exponentially. Advice from an experienced data analyst who can understand your requirements can suggest organising data and process requirements around the program requirements giving you a higher likelihood of success. Intellisolve has acted in the capacity of adviser in large scale programs organizing and structuring data and processes early so program management has access to information when they need it.
+
+---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjc3MDU2LDExOTk4MTU4NDgsLTE1Mz
-EwMjg5ODIsMTYwNjU1NTQwXX0=
+eyJoaXN0b3J5IjpbLTE1NzExMTA5ODYsMTE5OTgxNTg0OCwtMT
+UzMTAyODk4MiwxNjA2NTU1NDBdfQ==
 -->

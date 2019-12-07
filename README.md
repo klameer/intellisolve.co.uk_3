@@ -36,8 +36,7 @@ Business Case Development.
 Data migration done the right way will bear fruit in the future. We have a methodology that we follow. 
 A well managed data migration will ensure only the required information will be moved across to the new system or process. Validation and ownership must be put in place where the business owners sign off on the data when taking it over. A stakeholder must take on responsibility of the data. Because of this, communication is a key element of a successful data migration project.
 
-## Golden Sources
-A single version of the truth is a business intelligence term which means reducing ambiguity about an organisations data by storing it in one place. A common problem in organisations is that silos of the same data start to emerge in different areas of the organisation which invariably start to contradict each other. Making sure all users of the same data draw from the same source is essential for users to have confidence in the data and minimise errors in reporting. Intellisolve has a standard methodology in creating these Golden Sources on data.
+
 
 ## Advisory
 Getting data analysts involved in complex programs early in the process pays off in the future. As solutions become increasingly complex the cost of fixing problems later increases exponentially. Advice from an experienced data analyst who can understand your requirements can suggest organising data and process requirements around the program requirements giving you a higher likelihood of success. Intellisolve has acted in the capacity of adviser in large scale programs organizing and structuring data and processes early so program management has access to information when they need it.
@@ -47,11 +46,22 @@ Getting data analysts involved in complex programs early in the process pays off
 We specialise. Have used the same tools for many years and would like to think that that makes us think that we can give you the best advise and service among the best in the world. 
 
 ## Microsoft Excel
+Properly implemented, MS Excel is a tool kit for your business. It gives you a basis to look deeper into your business, build models and help you to focus and shine a light on the numbers in your business that really matter.
+
+## VBA
+VBA is a programming language within the MS Office suite of applications that allows you to extend their functionality. The scripts or macros allow you to build custom solutions to your business requirements.
+
+## MS Access
+Probably the most underused application in the MS Office suite. Gives you the ability to bring together or maintain large amounts of data that can be consolidated and reported upon.
+
+## Python
+A general purpose programming language that could be used to solve business problems. Python has a widely used set of libraries that can be used to do things like data processing, statistics, data visualization and even building web applications.
+
 
 
 ## Project Delivery
-
+Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTgxMjY5NiwtMTU3MTExMDk4NiwxMT
+eyJoaXN0b3J5IjpbMTA3NDU3MTc0MiwtMTU3MTExMDk4NiwxMT
 k5ODE1ODQ4LC0xNTMxMDI4OTgyLDE2MDY1NTU0MF19
 -->

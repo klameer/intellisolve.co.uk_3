@@ -18,9 +18,10 @@ Read and write files or summarise data that is all over the place in different f
 Automatically visit as many web pages as you want and parse them for information. 
 Schedule tasks that can be performed when you want them and be notified even on your phone when something happens. 
 
-
+## Build Models
+Statistical Modelling. Provides a basis for proving beyond reasonable doubt that there are patterns in your data. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5OTgxNTg0OCwtMTUzMTAyODk4MiwxNj
-A2NTU1NDBdfQ==
+eyJoaXN0b3J5IjpbMjA4MTgyMzcwNiwxMTk5ODE1ODQ4LC0xNT
+MxMDI4OTgyLDE2MDY1NTU0MF19
 -->

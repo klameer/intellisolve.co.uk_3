@@ -12,9 +12,11 @@ VBA also allows you to write your own Excel functions. There are 500+ functions 
 
 ## Python Automation
 This is where things get more interesting. You can go beyond Excel with Python. 
-Pattern matching. Read a large body of text very quickly and extrac
+Pattern matching. Read a large body of text very quickly and extract out the information you need with powerful language processing tools. 
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTA3ODU2OSwxNjA2NTU1NDBdfQ==
+eyJoaXN0b3J5IjpbLTEwMzc3NzQ1MjcsMTYwNjU1NTQwXX0=
 -->

@@ -43,8 +43,10 @@ A single version of the truth is a business intelligence term which means reduci
 Getting data analysts involved in complex programs early in the process pays off in the future. As solutions become increasingly complex the cost of fixing problems later increases exponentially. Advice from an experienced data analyst who can understand your requirements can suggest organising data and process requirements around the program requirements giving you a higher likelihood of success. Intellisolve has acted in the capacity of adviser in large scale programs organizing and structuring data and processes early so program management has access to information when they need it.
 
 ---
-
+# Tools we use
+We specialise. Have used the same tools for many years and would like to think that that 
+## Microsoft Excel
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzExMTA5ODYsMTE5OTgxNTg0OCwtMT
-UzMTAyODk4MiwxNjA2NTU1NDBdfQ==
+eyJoaXN0b3J5IjpbLTE1MjE4NTcyODMsLTE1NzExMTA5ODYsMT
+E5OTgxNTg0OCwtMTUzMTAyODk4MiwxNjA2NTU1NDBdfQ==
 -->

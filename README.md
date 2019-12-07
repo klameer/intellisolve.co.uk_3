@@ -27,9 +27,14 @@ Data Modelling. When modelling complex processes, it helps to have an abstract s
 
 ## Analyse Data
 Financial Data Analysis. Financial Data Analysis is the process of carrying out data analysis on financial data. A financial data analysis project has the same features of a data analysis project in that each of the stages are carried out to achieve a specific goal.
+Custom Dashboards. 
+Business Case Development.
+
+## Data Migration
+Data migration done the right way will bear fruit in the future. We have a methodology that we follow. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5ODg2NzA2OCwxMTk5ODE1ODQ4LC0xNT
-MxMDI4OTgyLDE2MDY1NTU0MF19
+eyJoaXN0b3J5IjpbMzQyNDcxMTIyLDExOTk4MTU4NDgsLTE1Mz
+EwMjg5ODIsMTYwNjU1NTQwXX0=
 -->

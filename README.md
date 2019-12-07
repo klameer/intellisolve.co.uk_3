@@ -1,4 +1,6 @@
 # Services
+Some of the work we have done in the past. 
+Understand business.
 
 ## Automate Processes
 Is an opportunity to make your processes more efficient. Automation can save time and improve the quality of tasks. As you can code your computer to complete repetitive tasks.
@@ -32,9 +34,12 @@ Business Case Development.
 
 ## Data Migration
 Data migration done the right way will bear fruit in the future. We have a methodology that we follow. 
+A well managed data migration will ensure only the required information will be moved across to the new system or process. Validation and ownership must be put in place where the business owners sign off on the data when taking it over. A stakeholder must take on responsibility of the data. Because of this, communication is a key element of a successful data migration project.
 
+## Golden Sources
+A single version of the truth is a business intelligence term which means reducing ambiguity about an organisations data by storing it in one place. A common problem in organisations is that silos of the same data start to emerge in different areas of the organisation which invariably start to contradict each other. Making sure all users of the same data draw from the same source is essential for users to have confidence in the data and minimize errors in reporting. Intellisolve has a standard methodology in creating these Golden Sources on data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQyNDcxMTIyLDExOTk4MTU4NDgsLTE1Mz
+eyJoaXN0b3J5IjpbLTEzNjc3MDU2LDExOTk4MTU4NDgsLTE1Mz
 EwMjg5ODIsMTYwNjU1NTQwXX0=
 -->

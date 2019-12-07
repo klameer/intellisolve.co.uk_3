@@ -11,9 +11,10 @@ Another cool thing about this is, using VBA, you can get MS Office applications 
 VBA also allows you to write your own Excel functions. There are 500+ functions in Excel. If these are not enough, you can write your own. 
 
 ## Python Automation
-This is where things get more interesting. You can go beyond Python 
+This is where things get more interesting. You can go beyond Excel with Python. 
+Pattern matching. Read a large body of text very quickly and extrac
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NDg1OTE1MSwxNjA2NTU1NDBdfQ==
+eyJoaXN0b3J5IjpbLTY0MTA3ODU2OSwxNjA2NTU1NDBdfQ==
 -->

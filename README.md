@@ -8,27 +8,12 @@ A VBA macro is a piece of computer code that you write in Excel that gives it in
 
 Another cool thing about this is, using VBA, you can get MS Office applications to talk to each other and build solutions on top of the entire MS Office suite of programs. Hold you data in MS Access, do analysis and reporting on that data in MS Excel and present your findings in MS PowerPoint seamlessly. It's amazing how far you can go with this. 
 
-VBA also allows you to write your own Excel functions. There are 500+ functions in Excel. If thesea
-
-If you find yourself spending a lot of time with many spreadsheets and carrying out long and involved processes to bring bits of data from each of these together or just change how one spreadsheet looks, on many spreadsheets, then automation will make your life a lot easier.
+VBA also allows you to write your own Excel functions. There are 500+ functions in Excel. If these are not enough, you can write your own. 
 
 ## Python Automation
+This is where things get more interesting. You can go beyond Python 
 
-Go beyond MS Office and automate your processes with Python.
 
-It helps you go beyond the limitations of the of MS Office and lets you do things like automate
-
-Go beyond Excel with other applications like Python that to do complex analysis on data or create data pipelines.
-
-Use your existing software better
-
-Process automation is the opportunity to move resources away from activities that can be better handled by the very computers they will be
-
-VBA
-
-Python
-
-Create macros to do data tasks that take time to do.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTU2MDcwMCwxNjA2NTU1NDBdfQ==
+eyJoaXN0b3J5IjpbMTU2NDg1OTE1MSwxNjA2NTU1NDBdfQ==
 -->

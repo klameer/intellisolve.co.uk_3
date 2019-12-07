@@ -15,9 +15,9 @@ This is where things get more interesting. You can go beyond Excel with Python.
 
 Pattern matching. Read a large body of text very quickly and extract out the information you need with powerful language processing tools. 
 
-Read and write files or summarise data that is all over the place in different file formats in different directories 
+Read and write files or summarise data that is all over the place in different file formats in different directories
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODg3OTc3OCwxNjA2NTU1NDBdfQ==
+eyJoaXN0b3J5IjpbLTE1MzEwMjg5ODIsMTYwNjU1NTQwXX0=
 -->

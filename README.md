@@ -16,10 +16,11 @@ This is where things get more interesting. You can go beyond Excel with Python.
 Pattern matching. Read a large body of text very quickly and extract out the information you need with powerful language processing tools. 
 Read and write files or summarise data that is all over the place in different file formats in different directories.
 Automatically visit as many web pages as you want and parse them for information. 
-Schedule tasks that can be performed 
+Schedule tasks that can be performed when you want them and be notified even on your phone when something happens. 
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNTkxNTIwNiwtMTUzMTAyODk4MiwxNj
+eyJoaXN0b3J5IjpbMTE5OTgxNTg0OCwtMTUzMTAyODk4MiwxNj
 A2NTU1NDBdfQ==
 -->

@@ -20,8 +20,12 @@ Schedule tasks that can be performed when you want them and be notified even on 
 
 ## Build Models
 Statistical Modelling. Provides a basis for proving beyond reasonable doubt that there are patterns in your data. 
+Financial Modelling. 
+Data Modelling. When modelling complex processes, it helps to have an abstract simplified view of the data. It gives you a better understanding of the components in the process and allow you to make more informed decisions based on a better understanding of the data. A good data model is structured around its usefulness to the business and how it contributes to achieving business objectives.
+
+## Analyze 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MTgyMzcwNiwxMTk5ODE1ODQ4LC0xNT
+eyJoaXN0b3J5IjpbLTMwMDg1MzQ2MSwxMTk5ODE1ODQ4LC0xNT
 MxMDI4OTgyLDE2MDY1NTU0MF19
 -->

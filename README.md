@@ -5,6 +5,10 @@ Understand business.
 ## Automate Processes
 Is an opportunity to make your processes more efficient. Automation can save time and improve the quality of tasks. As you can code your computer to complete repetitive tasks.
 
+Within the finance function. 
+
+Within operations
+
 ### VBA Automation
 A VBA macro is a piece of computer code that you write in Excel that gives it instructions to do certain tasks. This is immensely useful because you can get Excel to automate tasks. Excel can do these tasks better, faster and more accurately. 
 
@@ -55,13 +59,13 @@ VBA is a programming language within the MS Office suite of applications that al
 Probably the most underused application in the MS Office suite. Gives you the ability to bring together or maintain large amounts of data that can be consolidated and reported upon.
 
 ## Python
-A general purpose programming language that could be used to solve business problems. Python has a widely used set of libraries that can be used to do things like data processing, statistics, data visualization and even building web applications.
+A general purpose programming language that could be used to solve business problems. Python has a widely used set of libraries that can be used to do things like data processing, statistics, data visualisation and even building web applications.
 
 
 
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NDU3MTc0MiwtMTU3MTExMDk4NiwxMT
+eyJoaXN0b3J5IjpbLTgyMjk3NDMxMiwtMTU3MTExMDk4NiwxMT
 k5ODE1ODQ4LC0xNTMxMDI4OTgyLDE2MDY1NTU0MF19
 -->

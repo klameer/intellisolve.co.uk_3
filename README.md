@@ -14,13 +14,12 @@ VBA also allows you to write your own Excel functions. There are 500+ functions 
 This is where things get more interesting. You can go beyond Excel with Python. 
 
 Pattern matching. Read a large body of text very quickly and extract out the information you need with powerful language processing tools. 
-
 Read and write files or summarise data that is all over the place in different file formats in different directories.
-
-Web scraping is where you can visit many web pages and get specific informati
+Automatically visit as many web pages as you want and parse them for information. 
+Schedule tasks that can be performed 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxODkwMjQ4MywtMTUzMTAyODk4MiwxNj
+eyJoaXN0b3J5IjpbMjAzNTkxNTIwNiwtMTUzMTAyODk4MiwxNj
 A2NTU1NDBdfQ==
 -->

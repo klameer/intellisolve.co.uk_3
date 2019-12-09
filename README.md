@@ -7,15 +7,14 @@ Is an opportunity to make your processes more efficient. Automation can save tim
 
 ### VBA Automation
 Excel is in the finance department of most organisations. A VBA macro is computer code that you write in Excel that gives it instructions to do certain tasks. This could be as simple as opening, reading and closing a file to things more complex like reading hundreds of stock prices from the internet and updating prediction models. 
-All the individual tasks can be grouped together and if done right, you have a very fast and accurate process that you can trigger either by clicking a button or that will run at some point in 
-
-If you start doing tasks with code, then you can group these together and even group the groups. Excel can do tasks better, faster and more accurately than mere mortals can. 
+All the individual tasks can be grouped together and if done right, you have a very fast and accurate process that you can trigger either by clicking a button or that will run at some point in time without you even knowing it. 
 
 Another cool thing about this is, using VBA, you can get MS Office applications to talk to each other and build solutions on top of the entire MS Office suite of programs. Hold you data in MS Access, do analysis and reporting on that data in MS Excel and present your findings in MS PowerPoint seamlessly. It's amazing how far you can go with this. 
 
 VBA also allows you to write your own Excel functions. There are 500+ functions in Excel. If these are not enough, you can write your own. 
 
 ## Python Automation
+
 This is where things get more interesting. You can go beyond Excel with Python. 
 
 Pattern matching. Read a large body of text very quickly and extract out the information you need with powerful language processing tools. 
@@ -67,7 +66,7 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODk2ODQ4NiwtNzkwMTQ1MTY4LC0xMT
-cwOTM0NzY4LC0xNTcxMTEwOTg2LDExOTk4MTU4NDgsLTE1MzEw
-Mjg5ODIsMTYwNjU1NTQwXX0=
+eyJoaXN0b3J5IjpbLTEzMzMzNzk2MjEsLTc5MDE0NTE2OCwtMT
+E3MDkzNDc2OCwtMTU3MTExMDk4NiwxMTk5ODE1ODQ4LC0xNTMx
+MDI4OTgyLDE2MDY1NTU0MF19
 -->

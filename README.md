@@ -1,4 +1,6 @@
 # Services
+
+With a great variety of business knowledge and experience. We are able to quickly understand your requirement and deliver the best s
 Some of the work we have done in the past. 
 Understand business.
 
@@ -68,7 +70,7 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MDE0NTE2OCwtMTE3MDkzNDc2OCwtMT
-U3MTExMDk4NiwxMTk5ODE1ODQ4LC0xNTMxMDI4OTgyLDE2MDY1
-NTU0MF19
+eyJoaXN0b3J5IjpbODQ2MzcyMjE3LC03OTAxNDUxNjgsLTExNz
+A5MzQ3NjgsLTE1NzExMTA5ODYsMTE5OTgxNTg0OCwtMTUzMTAy
+ODk4MiwxNjA2NTU1NDBdfQ==
 -->

@@ -14,7 +14,7 @@ Another cool thing about this is, using VBA, you can get MS Office applications 
 VBA also allows you to write your own Excel functions. There are 500+ functions in Excel. If these are not enough, you can write your own. 
 
 ## Python Automation
-
+Python is a general purpose programming language that has many applications from processing data to making your own games. U
 This is where things get more interesting. You can go beyond Excel with Python. 
 
 Pattern matching. Read a large body of text very quickly and extract out the information you need with powerful language processing tools. 
@@ -66,7 +66,7 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzMzNzk2MjEsLTc5MDE0NTE2OCwtMT
-E3MDkzNDc2OCwtMTU3MTExMDk4NiwxMTk5ODE1ODQ4LC0xNTMx
-MDI4OTgyLDE2MDY1NTU0MF19
+eyJoaXN0b3J5IjpbNzIxNDIxMjEwLC0xMzMzMzc5NjIxLC03OT
+AxNDUxNjgsLTExNzA5MzQ3NjgsLTE1NzExMTA5ODYsMTE5OTgx
+NTg0OCwtMTUzMTAyODk4MiwxNjA2NTU1NDBdfQ==
 -->

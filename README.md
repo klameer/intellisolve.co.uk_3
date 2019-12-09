@@ -18,7 +18,8 @@ Python is a general purpose programming language that has many applications from
 
 Here are some of the things we have done with Python. 
 
-Pattern matching. Read a large body of text very quickly and extract out the information you need with powerful language processing tools. 
+Pattern matching with language processing tools. Read a large body of text very quickly and extract out the information you need. You can even figure out the mood of the sentence and if it is positive or negative. 
+ 
 Read and write files or summarise data that is all over the place in different file formats in different directories.
 Automatically visit as many web pages as you want and parse them for information. 
 Schedule tasks that can be performed when you want them and be notified even on your phone when something happens. 
@@ -67,8 +68,8 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4OTEwNjk0LC02NjQ4ODY3MzgsLTEzMz
-MzNzk2MjEsLTc5MDE0NTE2OCwtMTE3MDkzNDc2OCwtMTU3MTEx
-MDk4NiwxMTk5ODE1ODQ4LC0xNTMxMDI4OTgyLDE2MDY1NTU0MF
-19
+eyJoaXN0b3J5IjpbMjA5MDI3NjE3MCwtNjY0ODg2NzM4LC0xMz
+MzMzc5NjIxLC03OTAxNDUxNjgsLTExNzA5MzQ3NjgsLTE1NzEx
+MTA5ODYsMTE5OTgxNTg0OCwtMTUzMTAyODk4MiwxNjA2NTU1ND
+BdfQ==
 -->

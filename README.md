@@ -1,8 +1,7 @@
 # Services
 
-With a great variety of business knowledge and experience. We are able to quickly understand your requirement and deliver the best s
-Some of the work we have done in the past. 
-Understand business.
+With a great variety of business knowledge and experience. We are able to quickly understand your requirement and deliver the best solution using the right tools available to you. 
+
 
 ## Automate Processes
 Is an opportunity to make your processes more efficient. Automation can save time and improve the quality of tasks. As you can use computer code to carry out repetitive and time sensitive tasks.
@@ -70,7 +69,7 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2MzcyMjE3LC03OTAxNDUxNjgsLTExNz
-A5MzQ3NjgsLTE1NzExMTA5ODYsMTE5OTgxNTg0OCwtMTUzMTAy
-ODk4MiwxNjA2NTU1NDBdfQ==
+eyJoaXN0b3J5IjpbLTE5OTIyMTAzNTEsLTc5MDE0NTE2OCwtMT
+E3MDkzNDc2OCwtMTU3MTExMDk4NiwxMTk5ODE1ODQ4LC0xNTMx
+MDI4OTgyLDE2MDY1NTU0MF19
 -->

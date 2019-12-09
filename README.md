@@ -26,12 +26,15 @@ Statistical Modelling. Provides a basis for proving beyond reasonable doubt that
 
 Financial Modelling. Financial modelling is the task of building an abstract representation (a model) of a real world financial situation. This is a mathematical model designed to represent (a simplified version of) the performance of a financial asset or portfolio of a business, project, or any other investment. If your model is complex and has many variables, you can test all possible combinations and sensitivities of variables. 
 
+Business Case Development.
+
+
 Data Modelling. When modelling complex processes, it helps to have an abstract simplified view of the data. It gives you a better understanding of the components in the process and allow you to make more informed decisions based on a better understanding of the data. A good data model is structured around its usefulness to the business and how it contributes to achieving business objectives.
 
 ## Analyse Data
+Find patterns in your data as a single activity or build custom dashboards to keep on top of the business metrics that matter 
 Financial Data Analysis. Financial Data Analysis is the process of carrying out data analysis on financial data. A financial data analysis project has the same features of a data analysis project in that each of the stages are carried out to achieve a specific goal.
 Custom Dashboards. 
-Business Case Development.
 
 ## Data Migration
 Data migration done the right way will bear fruit in the future. We have a methodology that we follow. 
@@ -65,8 +68,8 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTEyNjcyNSwtNjY0ODg2NzM4LC0xMz
-MzMzc5NjIxLC03OTAxNDUxNjgsLTExNzA5MzQ3NjgsLTE1NzEx
-MTA5ODYsMTE5OTgxNTg0OCwtMTUzMTAyODk4MiwxNjA2NTU1ND
-BdfQ==
+eyJoaXN0b3J5IjpbLTE4Nzk5NzA3NTMsMTU0NTEyNjcyNSwtNj
+Y0ODg2NzM4LC0xMzMzMzc5NjIxLC03OTAxNDUxNjgsLTExNzA5
+MzQ3NjgsLTE1NzExMTA5ODYsMTE5OTgxNTg0OCwtMTUzMTAyOD
+k4MiwxNjA2NTU1NDBdfQ==
 -->

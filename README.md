@@ -1,16 +1,12 @@
 # Services
 
-With a great variety of business knowledge and experience. We are able to quickly understand your requirement and deliver the best solution using the right tools available to you. 
-
+With a great variety of business knowledge and experience. We are able to quickly understand your requirement and deliver the best solution using the right tools available to you. We specialise in finance processes but a lot of what we build can be applied to other areas of your business as well. 
 
 ## Automate Processes
-Is an opportunity to make your processes more efficient. Automation can save time and improve the quality of tasks. As you can use computer code to carry out repetitive and time sensitive tasks.
-
-Within the finance function. 
-
-Within operations
+Is an opportunity to make your processes more efficient. Automation can save time and improve the quality of tasks. As you can use computer code to carry out repetitive and time sensitive tasks while you focus on the higher level aspects of your business. 
 
 ### VBA Automation
+As ex
 A VBA macro is a piece of computer code that you write in Excel that gives it instructions to do certain tasks. This is immensely useful because you can get Excel to automate tasks. Excel can do these tasks better, faster and more accurately. 
 
 Another cool thing about this is, using VBA, you can get MS Office applications to talk to each other and build solutions on top of the entire MS Office suite of programs. Hold you data in MS Access, do analysis and reporting on that data in MS Excel and present your findings in MS PowerPoint seamlessly. It's amazing how far you can go with this. 
@@ -69,7 +65,7 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTIyMTAzNTEsLTc5MDE0NTE2OCwtMT
-E3MDkzNDc2OCwtMTU3MTExMDk4NiwxMTk5ODE1ODQ4LC0xNTMx
-MDI4OTgyLDE2MDY1NTU0MF19
+eyJoaXN0b3J5IjpbMTU2NjcwMjk4MiwtNzkwMTQ1MTY4LC0xMT
+cwOTM0NzY4LC0xNTcxMTEwOTg2LDExOTk4MTU4NDgsLTE1MzEw
+Mjg5ODIsMTYwNjU1NTQwXX0=
 -->

@@ -7,6 +7,7 @@ Is an opportunity to make your processes more efficient. Automation can save tim
 
 ### VBA Automation
 Excel is in the finance department of most organisations. A VBA macro is computer code that you write in Excel that gives it instructions to do certain tasks. This could be as simple as opening, reading and closing a file to things more complex like reading hundreds of stock prices from the internet and updating prediction models. 
+All the individual tasks can be grouped together and if done right, you have a very fast and accurate process that you can trigger either by clicking a button or that will run at some point in 
 
 If you start doing tasks with code, then you can group these together and even group the groups. Excel can do tasks better, faster and more accurately than mere mortals can. 
 
@@ -66,7 +67,7 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQ5NTg3NiwtNzkwMTQ1MTY4LC0xMT
+eyJoaXN0b3J5IjpbLTcyODk2ODQ4NiwtNzkwMTQ1MTY4LC0xMT
 cwOTM0NzY4LC0xNTcxMTEwOTg2LDExOTk4MTU4NDgsLTE1MzEw
 Mjg5ODIsMTYwNjU1NTQwXX0=
 -->

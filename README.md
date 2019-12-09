@@ -6,7 +6,7 @@ With a great variety of business knowledge and experience. We are able to quickl
 Is an opportunity to make your processes more efficient. Automation can save time and improve the quality of tasks. As you can use computer code to carry out repetitive and time sensitive tasks while you focus on the higher level aspects of your business. 
 
 ### VBA Automation
-Excel is in the finance department of most organisations. A VBA macro is computer code that you write in Excel that gives it instructions to do certain tasks. This could be as simple as opening, reading and closing a file to things more complex like reading the stock price from the internet and updating a po
+Excel is in the finance department of most organisations. A VBA macro is computer code that you write in Excel that gives it instructions to do certain tasks. This could be as simple as opening, reading and closing a file to things more complex like reading hundreds of stock prices from the internet and updating prediction models. 
 
 If you start doing tasks with code, then you can group these together and even group the groups. Excel can do tasks better, faster and more accurately than mere mortals can. 
 
@@ -66,7 +66,7 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5ODQ2MDI5LC03OTAxNDUxNjgsLTExNz
-A5MzQ3NjgsLTE1NzExMTA5ODYsMTE5OTgxNTg0OCwtMTUzMTAy
-ODk4MiwxNjA2NTU1NDBdfQ==
+eyJoaXN0b3J5IjpbLTEyNzQ5NTg3NiwtNzkwMTQ1MTY4LC0xMT
+cwOTM0NzY4LC0xNTcxMTEwOTg2LDExOTk4MTU4NDgsLTE1MzEw
+Mjg5ODIsMTYwNjU1NTQwXX0=
 -->

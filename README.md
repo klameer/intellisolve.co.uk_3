@@ -3,7 +3,7 @@ Some of the work we have done in the past.
 Understand business.
 
 ## Automate Processes
-Is an opportunity to make your processes more efficient. Automation can save time and improve the quality of tasks. As you can code your computer to complete repetitive tasks.
+Is an opportunity to make your processes more efficient. Automation can save time and improve the quality of tasks. As you can use computer code to carry ou.
 
 Within the finance function. 
 
@@ -68,6 +68,7 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzA5MzQ3NjgsLTE1NzExMTA5ODYsMT
-E5OTgxNTg0OCwtMTUzMTAyODk4MiwxNjA2NTU1NDBdfQ==
+eyJoaXN0b3J5IjpbMjAxODAyMjYyMSwtMTE3MDkzNDc2OCwtMT
+U3MTExMDk4NiwxMTk5ODE1ODQ4LC0xNTMxMDI4OTgyLDE2MDY1
+NTU0MF19
 -->

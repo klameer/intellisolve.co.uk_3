@@ -15,11 +15,8 @@ VBA also allows you to write your own Excel functions. There are 500+ functions 
 
 ## Python Automation
 Python is a general purpose programming language that has many applications from processing data to making your own games. This is where things get interesting. Python automation goes beyond spreadsheets. Python is like the glue that brings together different solutions and lets them talk to each other. 
-
 Here are some of the things we have done with Python. 
-
 Pattern matching with language processing tools. Read a large body of text very quickly and extract out the information you need. You can even figure out the mood of the sentence and if it is positive or negative. 
- 
 Read and write files or summarise data that is all over the place in different file formats in different directories.
 Automatically visit as many web pages as you want and parse them for information. 
 Schedule tasks that can be performed when you want them and be notified even on your phone when something happens. 
@@ -27,7 +24,7 @@ Schedule tasks that can be performed when you want them and be notified even on 
 ## Build Models
 Statistical Modelling. Provides a basis for proving beyond reasonable doubt that there are patterns in your data. 
 
-Financial Modelling. Financial modelling is the task of building an abstract representation (a model) of a real world financial situation. This is a mathematical model designed to represent (a simplified version of) the performance of a financial asset or portfolio of a business, project, or any other investment.
+Financial Modelling. Financial modelling is the task of building an abstract representation (a model) of a real world financial situation. This is a mathematical model designed to represent (a simplified version of) the performance of a financial asset or portfolio of a business, project, or any other investment. If your model is complex and ha
 
 Data Modelling. When modelling complex processes, it helps to have an abstract simplified view of the data. It gives you a better understanding of the components in the process and allow you to make more informed decisions based on a better understanding of the data. A good data model is structured around its usefulness to the business and how it contributes to achieving business objectives.
 
@@ -68,7 +65,7 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MDI3NjE3MCwtNjY0ODg2NzM4LC0xMz
+eyJoaXN0b3J5IjpbLTIzODEwODgxNSwtNjY0ODg2NzM4LC0xMz
 MzMzc5NjIxLC03OTAxNDUxNjgsLTExNzA5MzQ3NjgsLTE1NzEx
 MTA5ODYsMTE5OTgxNTg0OCwtMTUzMTAyODk4MiwxNjA2NTU1ND
 BdfQ==

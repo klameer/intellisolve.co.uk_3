@@ -24,7 +24,7 @@ Schedule tasks that can be performed when you want them and be notified even on 
 ## Build Models
 Statistical Modelling. Provides a basis for proving beyond reasonable doubt that there are patterns in your data. 
 
-Financial Modelling. Financial modelling is the task of building an abstract representation (a model) of a real world financial situation. This is a mathematical model designed to represent (a simplified version of) the performance of a financial asset or portfolio of a business, project, or any other investment. If your model is complex and ha
+Financial Modelling. Financial modelling is the task of building an abstract representation (a model) of a real world financial situation. This is a mathematical model designed to represent (a simplified version of) the performance of a financial asset or portfolio of a business, project, or any other investment. If your model is complex and has many variables, you can test all possible combinations and sensitivities of variables. 
 
 Data Modelling. When modelling complex processes, it helps to have an abstract simplified view of the data. It gives you a better understanding of the components in the process and allow you to make more informed decisions based on a better understanding of the data. A good data model is structured around its usefulness to the business and how it contributes to achieving business objectives.
 
@@ -65,7 +65,7 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODEwODgxNSwtNjY0ODg2NzM4LC0xMz
+eyJoaXN0b3J5IjpbMTU0NTEyNjcyNSwtNjY0ODg2NzM4LC0xMz
 MzMzc5NjIxLC03OTAxNDUxNjgsLTExNzA5MzQ3NjgsLTE1NzEx
 MTA5ODYsMTE5OTgxNTg0OCwtMTUzMTAyODk4MiwxNjA2NTU1ND
 BdfQ==

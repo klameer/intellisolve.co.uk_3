@@ -25,9 +25,9 @@ A model is an abstraction of a real world thing. It tries to focus only on the t
 
 Statistical Modelling tries to prove that there are links between elements of your model. Once you have this proof, you can take advantage of these links. This takes the guesswork out of knowing that a type of medication works or that the weather affects the sales of ice cream. 
 
-Financial Modelling is an abstraction of a real work financial undertaking. It answers things like, should the business invest in a new showroom or is this stock right for my portfolio. Properly done you can ask the financial model questions like "how much do sales have to be for this product to be profitable" or "what is the maximum amount of interest I need to pay in order to find an investment". 
+Financial Modelling is an abstraction of a real work financial undertaking. It answers things like, should the business invest in a new showroom or is this stock right for my portfolio. Properly done you can ask the financial model questions like "how much do sales have to be for this product to be profitable" or "what is the maximum amount of interest I need to pay in order to find an investment". Business cases are types of financial models. 
 
-. Financial modelling is the task of building an abstract representation (a model) of a real world financial situation. This is a mathematical model designed to represent (a simplified version of) the performance of a financial asset or portfolio of a business, project, or any other investment. If your model is complex and has many variables, you can test all possible combinations and sensitivities of variables. 
+A well constructed financial model will allow you to easily answer these questions in the way you want. 
 
 Business Case Development. Business cases are a type of financial model that highlights relationships between variables in a business undertaking and shows if the undertaking can be profitable. 
 
@@ -69,7 +69,7 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njg1MDMzOTgsMTM3ODcyNTE0OCwtMT
+eyJoaXN0b3J5IjpbLTEyNDgzNDgyNjAsMTM3ODcyNTE0OCwtMT
 Q5OTUxNjE0NywzODE5MjA1MDAsMTU0NTEyNjcyNSwtNjY0ODg2
 NzM4LC0xMzMzMzc5NjIxLC03OTAxNDUxNjgsLTExNzA5MzQ3Nj
 gsLTE1NzExMTA5ODYsMTE5OTgxNTg0OCwtMTUzMTAyODk4Miwx

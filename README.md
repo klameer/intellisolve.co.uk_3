@@ -37,13 +37,9 @@ Find patterns in your data as a single activity or build custom dashboards to ke
 As we as we have a focus on finance we have built many analysis solutions within the finance function and can use this experience to help you. 
 
 ## Data Migration
-Data migration is moving data between applications. It means taking the data in the format that you currently have in your source system and changing it into a format that is useful in 
-Data migration is taking the data in the format that you currently have and changing it 
+Data migration is moving data between applications. It means taking the data in the format that you currently have in your source system and changing it into a format that is useful in your target system.
 
-Data migration done the right way will bear fruit in the future. We have a methodology that we follow. 
-A well managed data migration will ensure only the required information will be moved across to the new system or process. Validation and ownership must be put in place where the business owners sign off on the data when taking it over. A stakeholder must take on responsibility of the data. Because of this, communication is a key element of a successful data migration project.
-
-
+Data migration done the right way will bear fruit in the future. We have a methodology that we follow that has worked in the past to produce satisfied customers.
 
 ## Advisory
 Getting data analysts involved in complex programs early in the process pays off in the future. As solutions become increasingly complex the cost of fixing problems later increases exponentially. Advice from an experienced data analyst who can understand your requirements can suggest organising data and process requirements around the program requirements giving you a higher likelihood of success. Intellisolve has acted in the capacity of adviser in large scale programs organizing and structuring data and processes early so program management has access to information when they need it.
@@ -71,7 +67,7 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjg2ODg4NDcsMzgxOTIwNTAwLDE1ND
+eyJoaXN0b3J5IjpbLTE0OTk1MTYxNDcsMzgxOTIwNTAwLDE1ND
 UxMjY3MjUsLTY2NDg4NjczOCwtMTMzMzM3OTYyMSwtNzkwMTQ1
 MTY4LC0xMTcwOTM0NzY4LC0xNTcxMTEwOTg2LDExOTk4MTU4ND
 gsLTE1MzEwMjg5ODIsMTYwNjU1NTQwXX0=

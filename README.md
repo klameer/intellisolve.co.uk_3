@@ -34,11 +34,11 @@ Data Modelling. When modelling complex processes, it helps to have an abstract s
 ## Analyse Data
 Find patterns in your data as a single activity or build custom dashboards to keep on top of the business metrics that matter to your circumstances. Although Excel has all the functionality to build fairly complex models, Python has world class statistical and machine learning libraries and patterns to solve almost any analysis problem you can throw at it. 
 
-As we as we have a focus on finance we have built many analysis solutions within
-Financial Data Analysis. Financial Data Analysis is the process of carrying out data analysis on financial data. A financial data analysis project has the same features of a data analysis project in that each of the stages are carried out to achieve a specific goal.
-Custom Dashboards. 
+As we as we have a focus on finance we have built many analysis solutions within the finance function and can use this experience to help you. 
 
 ## Data Migration
+Data migration is ta
+
 Data migration done the right way will bear fruit in the future. We have a methodology that we follow. 
 A well managed data migration will ensure only the required information will be moved across to the new system or process. Validation and ownership must be put in place where the business owners sign off on the data when taking it over. A stakeholder must take on responsibility of the data. Because of this, communication is a key element of a successful data migration project.
 
@@ -70,8 +70,8 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NzcyMzMzNywzODE5MjA1MDAsMTU0NT
-EyNjcyNSwtNjY0ODg2NzM4LC0xMzMzMzc5NjIxLC03OTAxNDUx
-NjgsLTExNzA5MzQ3NjgsLTE1NzExMTA5ODYsMTE5OTgxNTg0OC
-wtMTUzMTAyODk4MiwxNjA2NTU1NDBdfQ==
+eyJoaXN0b3J5IjpbLTEwODk5MTgyNjYsMzgxOTIwNTAwLDE1ND
+UxMjY3MjUsLTY2NDg4NjczOCwtMTMzMzM3OTYyMSwtNzkwMTQ1
+MTY4LC0xMTcwOTM0NzY4LC0xNTcxMTEwOTg2LDExOTk4MTU4ND
+gsLTE1MzEwMjg5ODIsMTYwNjU1NTQwXX0=
 -->

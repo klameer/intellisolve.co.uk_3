@@ -42,7 +42,7 @@ Data migration is moving data between applications. It means taking the data in 
 Data migration done the right way will bear fruit in the future. We have a methodology that we follow that has worked in the past to produce satisfied customers.
 
 ## Advisory
-If your project is technical in nature, it will pay dividends if you enlist a specialist at the beginning to advise on the best way to build a solution. We know a few things really well Excel, VBA and some problems Python solves. Get us involved. 
+If your project is technical in nature, it will pay dividends if you enlist a specialist at the beginning to advise on the best way to build a solution. The further along the project you are, the more expensive mistakes become. We know a few things really well Excel, VBA and some problems Python solves. Get us involved and be confident that your course of action is more right than others.
 
 Getting data analysts involved in complex programs early in the process pays off in the future. As solutions become increasingly complex the cost of fixing problems later increases exponentially. Advice from an experienced data analyst who can understand your requirements can suggest organising data and process requirements around the program requirements giving you a higher likelihood of success. Intellisolve has acted in the capacity of adviser in large scale programs organizing and structuring data and processes early so program management has access to information when they need it.
 
@@ -69,9 +69,9 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNjIwODQwNSwtMTQ5OTUxNjE0NywzOD
-E5MjA1MDAsMTU0NTEyNjcyNSwtNjY0ODg2NzM4LC0xMzMzMzc5
-NjIxLC03OTAxNDUxNjgsLTExNzA5MzQ3NjgsLTE1NzExMTA5OD
-YsMTE5OTgxNTg0OCwtMTUzMTAyODk4MiwxNjA2NTU1NDBdfQ==
+eyJoaXN0b3J5IjpbLTE4MjI2MTMyNjQsLTE0OTk1MTYxNDcsMz
+gxOTIwNTAwLDE1NDUxMjY3MjUsLTY2NDg4NjczOCwtMTMzMzM3
+OTYyMSwtNzkwMTQ1MTY4LC0xMTcwOTM0NzY4LC0xNTcxMTEwOT
+g2LDExOTk4MTU4NDgsLTE1MzEwMjg5ODIsMTYwNjU1NTQwXX0=
 
 -->

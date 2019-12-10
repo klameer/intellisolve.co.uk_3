@@ -26,7 +26,8 @@ Statistical Modelling. Provides a basis for proving beyond reasonable doubt that
 
 Financial Modelling. Financial modelling is the task of building an abstract representation (a model) of a real world financial situation. This is a mathematical model designed to represent (a simplified version of) the performance of a financial asset or portfolio of a business, project, or any other investment. If your model is complex and has many variables, you can test all possible combinations and sensitivities of variables. 
 
-Business Case Development.
+### Business Case Development
+Business cases are a type of financial model that 
 
 
 Data Modelling. When modelling complex processes, it helps to have an abstract simplified view of the data. It gives you a better understanding of the components in the process and allow you to make more informed decisions based on a better understanding of the data. A good data model is structured around its usefulness to the business and how it contributes to achieving business objectives.
@@ -43,8 +44,6 @@ Data migration done the right way will bear fruit in the future. We have a metho
 
 ## Advisory
 If your project is technical in nature, it will pay dividends if you enlist a specialist at the beginning to advise on the best way to build a solution. The further along the project you are, the more expensive mistakes become. We know a few things really well Excel, VBA and some problems Python solves. Get us involved and be confident that your course of action is more right.
-
-Getting data analysts involved in complex programs early in the process pays off in the future. As solutions become increasingly complex the cost of fixing problems later increases exponentially. Advice from an experienced data analyst who can understand your requirements can suggest organising data and process requirements around the program requirements giving you a higher likelihood of success. Intellisolve has acted in the capacity of adviser in large scale programs organizing and structuring data and processes early so program management has access to information when they need it.
 
 ---
 # Tools we use
@@ -69,8 +68,9 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3OTg3NTM4LC0xNDk5NTE2MTQ3LDM4MT
-kyMDUwMCwxNTQ1MTI2NzI1LC02NjQ4ODY3MzgsLTEzMzMzNzk2
-MjEsLTc5MDE0NTE2OCwtMTE3MDkzNDc2OCwtMTU3MTExMDk4Ni
-wxMTk5ODE1ODQ4LC0xNTMxMDI4OTgyLDE2MDY1NTU0MF19
+eyJoaXN0b3J5IjpbLTk5NTQyNDIxOCwtMTQ5OTUxNjE0NywzOD
+E5MjA1MDAsMTU0NTEyNjcyNSwtNjY0ODg2NzM4LC0xMzMzMzc5
+NjIxLC03OTAxNDUxNjgsLTExNzA5MzQ3NjgsLTE1NzExMTA5OD
+YsMTE5OTgxNTg0OCwtMTUzMTAyODk4MiwxNjA2NTU1NDBdfQ==
+
 -->

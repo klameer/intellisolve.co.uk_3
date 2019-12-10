@@ -3,7 +3,7 @@
 With business knowledge and experience. We can quickly understand your requirement and deliver the best solution using the right tools available to you. We specialise in small Excel, VBA and Python solutions within your finance department. A lot of these solutions can be helpful in other areas of business as well. 
 
 ## Automate Processes
-Automating processe
+Automating processes is an opportunity to make your organisation more efficient. Automating utilises the computing power you already have more effectively. Automation can do mundane tasks faster, 
 Is an opportunity to make your processes more efficient. Automation can save time and improve the quality of tasks. As you can use computer code to carry out repetitive and time sensitive tasks while you focus on the higher level aspects of your business. 
 
 ### VBA Automation
@@ -67,9 +67,9 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODgwNzcwMCwxMzc4NzI1MTQ4LC0xND
-k5NTE2MTQ3LDM4MTkyMDUwMCwxNTQ1MTI2NzI1LC02NjQ4ODY3
-MzgsLTEzMzMzNzk2MjEsLTc5MDE0NTE2OCwtMTE3MDkzNDc2OC
-wtMTU3MTExMDk4NiwxMTk5ODE1ODQ4LC0xNTMxMDI4OTgyLDE2
-MDY1NTU0MF19
+eyJoaXN0b3J5IjpbLTIwNDcxMjE5NzMsMTM3ODcyNTE0OCwtMT
+Q5OTUxNjE0NywzODE5MjA1MDAsMTU0NTEyNjcyNSwtNjY0ODg2
+NzM4LC0xMzMzMzc5NjIxLC03OTAxNDUxNjgsLTExNzA5MzQ3Nj
+gsLTE1NzExMTA5ODYsMTE5OTgxNTg0OCwtMTUzMTAyODk4Miwx
+NjA2NTU1NDBdfQ==
 -->

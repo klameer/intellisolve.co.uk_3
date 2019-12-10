@@ -30,9 +30,7 @@ Financial Modelling is an abstraction of a real work financial undertaking. It a
 Data Modelling includes financial modelling and statistical modelling and does modelling activities that don't easily fall under these categories. Although in business you would only undertake an activity if it makes financial sense. A good data model is structured around its usefulness to the business and how it contributes to achieving business objectives so this always has to be the core part or all models no matter what they are. 
 
 ## Analyse Data
-Find patterns in your data as a single activity or build custom dashboards to keep on top of the business. The circumstances of all business are both similar and slightly different depending on where the business is in its evolution. 
-
- metrics that matter to your circumstances. Although Excel has all the functionality to build fairly complex models, Python has world class statistical and machine learning libraries and patterns to solve almost any analysis problem you can throw at it. 
+Find patterns in your data as a single activity or build custom dashboards to keep on top of the business. The circumstances of all business are both similar and slightly different depending on where the business is in its evolution. Although Excel has all the functionality to build fairly complex models, Python has world class statistical and machine learning libraries and patterns to solve almost any analysis problem you can throw at it. It is a viable solution if Excel 
 
 As we as we have a focus on finance we have built many analysis solutions within the finance function and can use this experience to help you. 
 
@@ -67,9 +65,9 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwMjk5NzksMzc1MzgwMDcwLDEzNzg3Mj
-UxNDgsLTE0OTk1MTYxNDcsMzgxOTIwNTAwLDE1NDUxMjY3MjUs
-LTY2NDg4NjczOCwtMTMzMzM3OTYyMSwtNzkwMTQ1MTY4LC0xMT
-cwOTM0NzY4LC0xNTcxMTEwOTg2LDExOTk4MTU4NDgsLTE1MzEw
-Mjg5ODIsMTYwNjU1NTQwXX0=
+eyJoaXN0b3J5IjpbMjE4NTQyNzM4LDM3NTM4MDA3MCwxMzc4Nz
+I1MTQ4LC0xNDk5NTE2MTQ3LDM4MTkyMDUwMCwxNTQ1MTI2NzI1
+LC02NjQ4ODY3MzgsLTEzMzMzNzk2MjEsLTc5MDE0NTE2OCwtMT
+E3MDkzNDc2OCwtMTU3MTExMDk4NiwxMTk5ODE1ODQ4LC0xNTMx
+MDI4OTgyLDE2MDY1NTU0MF19
 -->

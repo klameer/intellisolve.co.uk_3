@@ -37,7 +37,8 @@ Find patterns in your data as a single activity or build custom dashboards to ke
 As we as we have a focus on finance we have built many analysis solutions within the finance function and can use this experience to help you. 
 
 ## Data Migration
-Data migration is ta
+Data migration is moving data between applications. It means taking the data in the format that you currently have in your source system and changing it into a format that is useful in 
+Data migration is taking the data in the format that you currently have and changing it 
 
 Data migration done the right way will bear fruit in the future. We have a methodology that we follow. 
 A well managed data migration will ensure only the required information will be moved across to the new system or process. Validation and ownership must be put in place where the business owners sign off on the data when taking it over. A stakeholder must take on responsibility of the data. Because of this, communication is a key element of a successful data migration project.
@@ -70,7 +71,7 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODk5MTgyNjYsMzgxOTIwNTAwLDE1ND
+eyJoaXN0b3J5IjpbLTEzMjg2ODg4NDcsMzgxOTIwNTAwLDE1ND
 UxMjY3MjUsLTY2NDg4NjczOCwtMTMzMzM3OTYyMSwtNzkwMTQ1
 MTY4LC0xMTcwOTM0NzY4LC0xNTcxMTEwOTg2LDExOTk4MTU4ND
 gsLTE1MzEwMjg5ODIsMTYwNjU1NTQwXX0=

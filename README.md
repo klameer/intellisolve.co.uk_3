@@ -3,11 +3,10 @@
 With business knowledge and experience. We can quickly understand your requirement and deliver the best solution using the right tools available to you. We specialise in small Excel, VBA and Python solutions within your finance department. A lot of these solutions can be helpful in other areas of business as well. 
 
 ## Automate Processes
-Automating processes is an opportunity to make your organisation more efficient. Automating utilises the computing power you already have more effectively. Automation can do mundane tasks faster, 
-Is an opportunity to make your processes more efficient. Automation can save time and improve the quality of tasks. As you can use computer code to carry out repetitive and time sensitive tasks while you focus on the higher level aspects of your business. 
+Automating processes is an opportunity to make your organisation more efficient. Automating utilises the computing power you already have more effectively. Automation can do mundane tasks faster, more efficiently and at a higher quality leaving you to do the more important "thinking" tasks in your organisation. 
 
 ### VBA Automation
-Excel is in the finance department of most organisations. A VBA macro is computer code that you write in Excel that gives it instructions to do certain tasks. This could be as simple as opening, reading and closing a file to things more complex like reading hundreds of stock prices from the internet and updating prediction models. 
+Excel is in the finance department of most organisations. A VBA macro is computer code that you write in Excel that gives it instructions to do tasks. This could be as simple as opening, reading and closing a file to things more complex like reading hundreds of stock prices from the internet and updating prediction models. 
 All the individual tasks can be grouped together and if done right, you have a very fast and accurate process that you can trigger either by clicking a button or that will run at some point in time without you even knowing it. 
 
 Another cool thing about this is, using VBA, you can get MS Office applications to talk to each other and build solutions on top of the entire MS Office suite of programs. Hold you data in MS Access, do analysis and reporting on that data in MS Excel and present your findings in MS PowerPoint seamlessly. It's amazing how far you can go with this. 
@@ -67,9 +66,9 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDcxMjE5NzMsMTM3ODcyNTE0OCwtMT
-Q5OTUxNjE0NywzODE5MjA1MDAsMTU0NTEyNjcyNSwtNjY0ODg2
-NzM4LC0xMzMzMzc5NjIxLC03OTAxNDUxNjgsLTExNzA5MzQ3Nj
-gsLTE1NzExMTA5ODYsMTE5OTgxNTg0OCwtMTUzMTAyODk4Miwx
-NjA2NTU1NDBdfQ==
+eyJoaXN0b3J5IjpbLTQ1NDQzNDY0NywxMzc4NzI1MTQ4LC0xND
+k5NTE2MTQ3LDM4MTkyMDUwMCwxNTQ1MTI2NzI1LC02NjQ4ODY3
+MzgsLTEzMzMzNzk2MjEsLTc5MDE0NTE2OCwtMTE3MDkzNDc2OC
+wtMTU3MTExMDk4NiwxMTk5ODE1ODQ4LC0xNTMxMDI4OTgyLDE2
+MDY1NTU0MF19
 -->

@@ -27,6 +27,7 @@ Statistical Modelling tries to prove that there are links between elements of yo
 
 Financial Modelling is an abstraction of a real work financial undertaking. It answers things like, should the business invest in a new showroom or is this stock right for my portfolio. Properly done you can ask the financial model questions like "how much do sales have to be for this product to be profitable" or "what is the maximum amount of interest I need to pay in order to find an investment". Business cases are types of financial models. A well constructed financial model will allow you to easily answer these questions in the way you want. 
 
+
 Data Modelling. When modelling complex processes, it helps to have an abstract simplified view of the data. It gives you a better understanding of the components in the process and allow you to make more informed decisions based on a better understanding of the data. A good data model is structured around its usefulness to the business and how it contributes to achieving business objectives.
 
 ## Analyse Data
@@ -65,9 +66,9 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc1MzgwMDcwLDEzNzg3MjUxNDgsLTE0OT
-k1MTYxNDcsMzgxOTIwNTAwLDE1NDUxMjY3MjUsLTY2NDg4Njcz
-OCwtMTMzMzM3OTYyMSwtNzkwMTQ1MTY4LC0xMTcwOTM0NzY4LC
-0xNTcxMTEwOTg2LDExOTk4MTU4NDgsLTE1MzEwMjg5ODIsMTYw
-NjU1NTQwXX0=
+eyJoaXN0b3J5IjpbMTMwNTUzOTAwMCwzNzUzODAwNzAsMTM3OD
+cyNTE0OCwtMTQ5OTUxNjE0NywzODE5MjA1MDAsMTU0NTEyNjcy
+NSwtNjY0ODg2NzM4LC0xMzMzMzc5NjIxLC03OTAxNDUxNjgsLT
+ExNzA5MzQ3NjgsLTE1NzExMTA5ODYsMTE5OTgxNTg0OCwtMTUz
+MTAyODk4MiwxNjA2NTU1NDBdfQ==
 -->

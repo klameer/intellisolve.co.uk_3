@@ -6,11 +6,7 @@ With business knowledge and experience. We can quickly understand your requireme
 Automating processes is an opportunity to make your organisation more efficient. Automating utilises the computing power you already have more effectively. Automation can do mundane tasks faster, more efficiently and at a higher quality leaving you to do the more important "thinking" tasks in your organisation. 
 
 ### VBA Automation
-Excel is in the finance department of most organisations. A VBA macro is computer code that you write in Excel that gives it instructions to do tasks. This could be as simple as opening, reading and closing a file to things more complex like reading hundreds of stock prices from the internet and updating prediction models. These individual tasks can be grouped together and can be executed at the right 
-
-and if done right can give you a very fast and 
-
-All the individual tasks can be grouped together and if done right, you have a very fast and accurate process that you can trigger either by clicking a button or that will run at some point in time without you even knowing it. 
+Excel is in the finance department of most organisations. A VBA macro is computer code that you write in Excel that gives it instructions to do tasks. This could be as simple as opening, reading and closing a file to things more complex like reading hundreds of stock prices from the internet and updating prediction models. These individual tasks can be grouped together and can be run at the right time either by you or when some other event happens. 
 
 Another cool thing about this is, using VBA, you can get MS Office applications to talk to each other and build solutions on top of the entire MS Office suite of programs. Hold you data in MS Access, do analysis and reporting on that data in MS Excel and present your findings in MS PowerPoint seamlessly. It's amazing how far you can go with this. 
 
@@ -69,7 +65,7 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMjYzNTM4MywxMzc4NzI1MTQ4LC0xND
+eyJoaXN0b3J5IjpbLTU0OTY3NjQ0NSwxMzc4NzI1MTQ4LC0xND
 k5NTE2MTQ3LDM4MTkyMDUwMCwxNTQ1MTI2NzI1LC02NjQ4ODY3
 MzgsLTEzMzMzNzk2MjEsLTc5MDE0NTE2OCwtMTE3MDkzNDc2OC
 wtMTU3MTExMDk4NiwxMTk5ODE1ODQ4LC0xNTMxMDI4OTgyLDE2

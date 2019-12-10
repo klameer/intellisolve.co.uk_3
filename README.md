@@ -30,7 +30,9 @@ Financial Modelling is an abstraction of a real work financial undertaking. It a
 Data Modelling includes financial modelling and statistical modelling and does modelling activities that don't easily fall under these categories. Although in business you would only undertake an activity if it makes financial sense. A good data model is structured around its usefulness to the business and how it contributes to achieving business objectives so this always has to be the core part or all models no matter what they are. 
 
 ## Analyse Data
-Find patterns in your data as a single activity or build custom dashboards to keep on top of the business. The circumstances of all business are both similar and slightly different depending on where the business is in its evolution. Although Excel has all the functionality to build fairly complex models, Python has world class statistical and machine learning libraries and patterns to solve almost any analysis problem you can throw at it. It is a viable solution to think about if Excel struggles with the solution. 
+Find patterns in your data and report on it can be a single activity or an ongoing one. 
+
+is a single activity or build custom dashboards to keep on top of the business. The circumstances of all business are both similar and slightly different depending on where the business is in its evolution. Although Excel has all the functionality to build fairly complex models, Python has world class statistical and machine learning libraries and patterns to solve almost any analysis problem you can throw at it. It is a viable solution to think about if Excel struggles with the solution. 
 
 ## Data Migration
 Data migration is moving data between applications. It means taking the data in the format that you currently have in your source system and changing it into a format that is useful in your target system.
@@ -63,9 +65,9 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NDI0MTE5MCwzNzUzODAwNzAsMTM3OD
-cyNTE0OCwtMTQ5OTUxNjE0NywzODE5MjA1MDAsMTU0NTEyNjcy
-NSwtNjY0ODg2NzM4LC0xMzMzMzc5NjIxLC03OTAxNDUxNjgsLT
-ExNzA5MzQ3NjgsLTE1NzExMTA5ODYsMTE5OTgxNTg0OCwtMTUz
-MTAyODk4MiwxNjA2NTU1NDBdfQ==
+eyJoaXN0b3J5IjpbLTc2ODg1NDE2MSwtNzQ0MjQxMTkwLDM3NT
+M4MDA3MCwxMzc4NzI1MTQ4LC0xNDk5NTE2MTQ3LDM4MTkyMDUw
+MCwxNTQ1MTI2NzI1LC02NjQ4ODY3MzgsLTEzMzMzNzk2MjEsLT
+c5MDE0NTE2OCwtMTE3MDkzNDc2OCwtMTU3MTExMDk4NiwxMTk5
+ODE1ODQ4LC0xNTMxMDI4OTgyLDE2MDY1NTU0MF19
 -->

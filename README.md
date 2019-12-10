@@ -30,7 +30,7 @@ Financial Modelling is an abstraction of a real work financial undertaking. It a
 Data Modelling includes financial modelling and statistical modelling and does modelling activities that don't easily fall under these categories. Although in business you would only undertake an activity if it makes financial sense. A good data model is structured around its usefulness to the business and how it contributes to achieving business objectives so this always has to be the core part or all models no matter what they are. 
 
 ## Analyse Data
-Find patterns in your data and report on it can be a single activity or an ongoing one. Either way we can help with the most used tools that have stood the test of time. Although Excel has all the functionality to build fairly complex models, Python has world class statistical and machine learning libraries and patterns to solve almost any analysis problem you can throw at it. It is a viable solution if you start pushing against the limitations of Excel. 
+Find patterns in your data and report on it can be a single activity or an ongoing one. Either way we can help with the most used tools that have stood the test of time. Although Excel has all the functionality to build fairly complex models, Python has world class statistical and machine learning libraries and patterns to solve almost any analysis problem you can throw at it. It is a viable solution if you start pushing against the ([http://findingpatterns.co.uk/pandas-vs-excel-who-will-win.html](http://findingpatterns.co.uk/pandas-vs-excel-who-will-win.html))[limitations of Excel]. 
 
 
 ## Data Migration
@@ -64,7 +64,7 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTg2NzUwNTEsLTc0NDI0MTE5MCwzNz
+eyJoaXN0b3J5IjpbLTEwMDQ3NzgxMzcsLTc0NDI0MTE5MCwzNz
 UzODAwNzAsMTM3ODcyNTE0OCwtMTQ5OTUxNjE0NywzODE5MjA1
 MDAsMTU0NTEyNjcyNSwtNjY0ODg2NzM4LC0xMzMzMzc5NjIxLC
 03OTAxNDUxNjgsLTExNzA5MzQ3NjgsLTE1NzExMTA5ODYsMTE5

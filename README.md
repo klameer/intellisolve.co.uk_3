@@ -21,8 +21,11 @@ Here are some of the things we have done with Python:
  - Schedule tasks that can be performed when you want them and be notified even on your phone when something happens. 
 
 ## Build Models
-A model is an abstraction of a real world thing. It tries to focus only on the things that are important for the task at hand. For instance a basic financial model will look at the profit of a business undertaking and how this will be affected by changes in the amount of revenue. As the model gets more sophisticated, you will be able to project what the business may look like years into the future. 
-Statistical Modelling. Provides a basis for proving beyond reasonable doubt that there are patterns in your data. 
+A model is an abstraction of a real world thing. It tries to focus only on the things that are important for the task at hand. For instance a basic financial model will look at the profit of a business undertaking and how this will be affected by changes in the amount of revenue. As the model gets more sophisticated, you will be able to project what the business may look like years into the future. As a model is not reality it will be wrong. But it may also be useful. 
+
+Statistical Modelling tries to prove that there are links between elements of your model. Once you have this proo
+
+Provides a basis for proving beyond reasonable doubt that there are patterns in your data. 
 
 Financial Modelling. Financial modelling is the task of building an abstract representation (a model) of a real world financial situation. This is a mathematical model designed to represent (a simplified version of) the performance of a financial asset or portfolio of a business, project, or any other investment. If your model is complex and has many variables, you can test all possible combinations and sensitivities of variables. 
 
@@ -66,7 +69,7 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTQ2NDYwMzAsMTM3ODcyNTE0OCwtMT
+eyJoaXN0b3J5IjpbLTE0NDU5ODkyODEsMTM3ODcyNTE0OCwtMT
 Q5OTUxNjE0NywzODE5MjA1MDAsMTU0NTEyNjcyNSwtNjY0ODg2
 NzM4LC0xMzMzMzc5NjIxLC03OTAxNDUxNjgsLTExNzA5MzQ3Nj
 gsLTE1NzExMTA5ODYsMTE5OTgxNTg0OCwtMTUzMTAyODk4Miwx

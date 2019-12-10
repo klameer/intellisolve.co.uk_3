@@ -21,7 +21,7 @@ Here are some of the things we have done with Python:
  - Schedule tasks that can be performed when you want them and be notified even on your phone when something happens. 
 
 ## Build Models
-A model is an abstraction of a real world thing. It tries to focus only on
+A model is an abstraction of a real world thing. It tries to focus only on the things that are important for the task at hand. For instance a basic financial model will look at the profit of an underatking and 
 Statistical Modelling. Provides a basis for proving beyond reasonable doubt that there are patterns in your data. 
 
 Financial Modelling. Financial modelling is the task of building an abstract representation (a model) of a real world financial situation. This is a mathematical model designed to represent (a simplified version of) the performance of a financial asset or portfolio of a business, project, or any other investment. If your model is complex and has many variables, you can test all possible combinations and sensitivities of variables. 
@@ -66,9 +66,9 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxOTcyOTg4OSwxMzc4NzI1MTQ4LC0xND
-k5NTE2MTQ3LDM4MTkyMDUwMCwxNTQ1MTI2NzI1LC02NjQ4ODY3
-MzgsLTEzMzMzNzk2MjEsLTc5MDE0NTE2OCwtMTE3MDkzNDc2OC
-wtMTU3MTExMDk4NiwxMTk5ODE1ODQ4LC0xNTMxMDI4OTgyLDE2
-MDY1NTU0MF19
+eyJoaXN0b3J5IjpbLTE0MTMwMDEyODYsMTM3ODcyNTE0OCwtMT
+Q5OTUxNjE0NywzODE5MjA1MDAsMTU0NTEyNjcyNSwtNjY0ODg2
+NzM4LC0xMzMzMzc5NjIxLC03OTAxNDUxNjgsLTExNzA5MzQ3Nj
+gsLTE1NzExMTA5ODYsMTE5OTgxNTg0OCwtMTUzMTAyODk4Miwx
+NjA2NTU1NDBdfQ==
 -->

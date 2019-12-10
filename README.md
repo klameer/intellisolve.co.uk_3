@@ -14,13 +14,14 @@ VBA also allows you to write your own Excel functions. There are 500+ functions 
 
 ## Python Automation
 Python is a general purpose programming language that has many applications from processing data to making your own games. This is where things get interesting. Python automation goes beyond spreadsheets. Python is like the glue that brings together different solutions and lets them talk to each other. 
-Here are some of the things we have done with Python. 
-Pattern matching with language processing tools. Read a large body of text very quickly and extract out the information you need. You can even figure out the mood of the sentence and if it is positive or negative. 
-Read and write files or summarise data that is all over the place in different file formats in different directories.
-Automatically visit as many web pages as you want and parse them for information. 
-Schedule tasks that can be performed when you want them and be notified even on your phone when something happens. 
+Here are some of the things we have done with Python:
+ - Pattern matching with language processing tools. Read a large body of text very quickly and extract out the information you need. You can even figure out the mood of the sentence and if it is positive or negative. 
+ - Read and write files or summarise data that is all over the place in different file formats in different directories.
+ - Automatically visit as many web pages as you want and parse them for information. 
+ - Schedule tasks that can be performed when you want them and be notified even on your phone when something happens. 
 
 ## Build Models
+A model is an abstraction of a real world thing. It tries to focus only on
 Statistical Modelling. Provides a basis for proving beyond reasonable doubt that there are patterns in your data. 
 
 Financial Modelling. Financial modelling is the task of building an abstract representation (a model) of a real world financial situation. This is a mathematical model designed to represent (a simplified version of) the performance of a financial asset or portfolio of a business, project, or any other investment. If your model is complex and has many variables, you can test all possible combinations and sensitivities of variables. 
@@ -65,7 +66,7 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDc3MjY3MCwxMzc4NzI1MTQ4LC0xND
+eyJoaXN0b3J5IjpbMTcxOTcyOTg4OSwxMzc4NzI1MTQ4LC0xND
 k5NTE2MTQ3LDM4MTkyMDUwMCwxNTQ1MTI2NzI1LC02NjQ4ODY3
 MzgsLTEzMzMzNzk2MjEsLTc5MDE0NTE2OCwtMTE3MDkzNDc2OC
 wtMTU3MTExMDk4NiwxMTk5ODE1ODQ4LC0xNTMxMDI4OTgyLDE2

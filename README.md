@@ -8,7 +8,7 @@ Automating processes is an opportunity to make your organisation more efficient.
 ### VBA Automation
 Excel is in the finance department of most organisations. A VBA macro is computer code that you write in Excel that gives it instructions to do tasks. This could be as simple as opening, reading and closing a file to things more complex like reading hundreds of stock prices from the internet and updating prediction models. These individual tasks can be grouped together and can be run at the right time either by you or when some other event happens. 
 
-Another cool thing about this is, using VBA, you can get MS Office applications to talk to each other and build solutions on top of the entire MS Office suite of programs. Hold you data in MS Access, do analysis and reporting on that data in MS Excel and present your findings in MS PowerPoint seamlessly. It's amazing how far you can go with this. 
+Another cool thing about VBA is that you can get MS Office applications to talk to each other and build solutions on top of the entire MS Office suite of programs. Hold your data in MS Access, do analysis and reporting on that data in MS Excel and present your findings in MS PowerPoint seamlessly. It's amazing how far you can go with this. 
 
 VBA also allows you to write your own Excel functions. There are 500+ functions in Excel. If these are not enough, you can write your own. 
 
@@ -65,7 +65,7 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0OTY3NjQ0NSwxMzc4NzI1MTQ4LC0xND
+eyJoaXN0b3J5IjpbLTM1NDc3MjY3MCwxMzc4NzI1MTQ4LC0xND
 k5NTE2MTQ3LDM4MTkyMDUwMCwxNTQ1MTI2NzI1LC02NjQ4ODY3
 MzgsLTEzMzMzNzk2MjEsLTc5MDE0NTE2OCwtMTE3MDkzNDc2OC
 wtMTU3MTExMDk4NiwxMTk5ODE1ODQ4LC0xNTMxMDI4OTgyLDE2

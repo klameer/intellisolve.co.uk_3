@@ -1,6 +1,6 @@
 # Services
 
-With a great variety of business knowledge and experience. We are able to quickly understand your requirement and deliver the best solution using the right tools available to you. We specialise in finance processes but a lot of what we build can be applied to other areas of your business as well. 
+With business knowledge and experience. We can quickly understand your requirement and deliver the best solution using the right tools available to you. We specialise in finance processes but a lot of what we build can be applied to other areas of your business as well. 
 
 ## Automate Processes
 Is an opportunity to make your processes more efficient. Automation can save time and improve the quality of tasks. As you can use computer code to carry out repetitive and time sensitive tasks while you focus on the higher level aspects of your business. 
@@ -66,9 +66,9 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3ODcyNTE0OCwtMTQ5OTUxNjE0NywzOD
-E5MjA1MDAsMTU0NTEyNjcyNSwtNjY0ODg2NzM4LC0xMzMzMzc5
-NjIxLC03OTAxNDUxNjgsLTExNzA5MzQ3NjgsLTE1NzExMTA5OD
-YsMTE5OTgxNTg0OCwtMTUzMTAyODk4MiwxNjA2NTU1NDBdfQ==
-
+eyJoaXN0b3J5IjpbMTgyMjY4OTAyMCwxMzc4NzI1MTQ4LC0xND
+k5NTE2MTQ3LDM4MTkyMDUwMCwxNTQ1MTI2NzI1LC02NjQ4ODY3
+MzgsLTEzMzMzNzk2MjEsLTc5MDE0NTE2OCwtMTE3MDkzNDc2OC
+wtMTU3MTExMDk4NiwxMTk5ODE1ODQ4LC0xNTMxMDI4OTgyLDE2
+MDY1NTU0MF19
 -->

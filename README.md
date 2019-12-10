@@ -23,11 +23,11 @@ Here are some of the things we have done with Python:
 ## Build Models
 A model is an abstraction of a real world thing. It tries to focus only on the things that are important for the task at hand. For instance a basic financial model will look at the profit of a business undertaking and how this will be affected by changes in the amount of revenue. As the model gets more sophisticated, you will be able to project what the business may look like years into the future. As a model is not reality it will be wrong. But it may also be useful. 
 
-Statistical Modelling tries to prove that there are links between elements of your model. Once you have this proof, you can take advantage of these links. This takes the guesswork out of knowing that a type of medi
+Statistical Modelling tries to prove that there are links between elements of your model. Once you have this proof, you can take advantage of these links. This takes the guesswork out of knowing that a type of medication works or that the weather affects the sales of ice cream. 
 
-Provides a basis for proving beyond reasonable doubt that there are patterns in your data. 
+Financial Modelling is an abstraction of a real work financial undertaking. As there is money inv
 
-Financial Modelling. Financial modelling is the task of building an abstract representation (a model) of a real world financial situation. This is a mathematical model designed to represent (a simplified version of) the performance of a financial asset or portfolio of a business, project, or any other investment. If your model is complex and has many variables, you can test all possible combinations and sensitivities of variables. 
+. Financial modelling is the task of building an abstract representation (a model) of a real world financial situation. This is a mathematical model designed to represent (a simplified version of) the performance of a financial asset or portfolio of a business, project, or any other investment. If your model is complex and has many variables, you can test all possible combinations and sensitivities of variables. 
 
 Business Case Development. Business cases are a type of financial model that highlights relationships between variables in a business undertaking and shows if the undertaking can be profitable. 
 
@@ -69,9 +69,9 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMTE2NDMyNiwxMzc4NzI1MTQ4LC0xND
-k5NTE2MTQ3LDM4MTkyMDUwMCwxNTQ1MTI2NzI1LC02NjQ4ODY3
-MzgsLTEzMzMzNzk2MjEsLTc5MDE0NTE2OCwtMTE3MDkzNDc2OC
-wtMTU3MTExMDk4NiwxMTk5ODE1ODQ4LC0xNTMxMDI4OTgyLDE2
-MDY1NTU0MF19
+eyJoaXN0b3J5IjpbLTEyMjcwNDQxNjAsMTM3ODcyNTE0OCwtMT
+Q5OTUxNjE0NywzODE5MjA1MDAsMTU0NTEyNjcyNSwtNjY0ODg2
+NzM4LC0xMzMzMzc5NjIxLC03OTAxNDUxNjgsLTExNzA5MzQ3Nj
+gsLTE1NzExMTA5ODYsMTE5OTgxNTg0OCwtMTUzMTAyODk4Miwx
+NjA2NTU1NDBdfQ==
 -->

@@ -32,8 +32,9 @@ Business Case Development.
 Data Modelling. When modelling complex processes, it helps to have an abstract simplified view of the data. It gives you a better understanding of the components in the process and allow you to make more informed decisions based on a better understanding of the data. A good data model is structured around its usefulness to the business and how it contributes to achieving business objectives.
 
 ## Analyse Data
-Find patterns in your data as a single activity or build custom dashboards to keep on top of the business metrics that matter to your circumstances. Although Excel has all the functionality to build fairly complex models, Python has great statistical and machine learning libraries. 
+Find patterns in your data as a single activity or build custom dashboards to keep on top of the business metrics that matter to your circumstances. Although Excel has all the functionality to build fairly complex models, Python has world class statistical and machine learning libraries and patterns to solve almost any analysis problem you can throw at it. 
 
+As we as we have a focus on finance we have built many analysis solutions within
 Financial Data Analysis. Financial Data Analysis is the process of carrying out data analysis on financial data. A financial data analysis project has the same features of a data analysis project in that each of the stages are carried out to achieve a specific goal.
 Custom Dashboards. 
 
@@ -69,8 +70,8 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgxOTIwNTAwLDE1NDUxMjY3MjUsLTY2ND
-g4NjczOCwtMTMzMzM3OTYyMSwtNzkwMTQ1MTY4LC0xMTcwOTM0
-NzY4LC0xNTcxMTEwOTg2LDExOTk4MTU4NDgsLTE1MzEwMjg5OD
-IsMTYwNjU1NTQwXX0=
+eyJoaXN0b3J5IjpbLTM3NzcyMzMzNywzODE5MjA1MDAsMTU0NT
+EyNjcyNSwtNjY0ODg2NzM4LC0xMzMzMzc5NjIxLC03OTAxNDUx
+NjgsLTExNzA5MzQ3NjgsLTE1NzExMTA5ODYsMTE5OTgxNTg0OC
+wtMTUzMTAyODk4MiwxNjA2NTU1NDBdfQ==
 -->

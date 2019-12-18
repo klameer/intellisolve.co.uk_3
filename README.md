@@ -13,7 +13,7 @@ Another cool thing about VBA is that you can get MS Office applications to talk 
 VBA also allows you to write your own Excel functions. There are 500+ functions in Excel. If these are not enough, you can write your own. 
 
 ## Python Automation
-Python is a general purpose programming language that has many applications from processing data to making your own games. This is where things get interesting. Python automation goes beyond spreadsheets. Python is like the glue that brings together different solutions and lets them talk to each other. 
+Python is a general purpose programming language that has many applications from processing data to making your own games. Python automation goes beyond spreadsheets as  the glue that brings together different solutions and lets them talk to each other. 
 Here are some of the things we have done with Python:
  - Pattern matching with language processing tools. Read a large body of text very quickly and extract out the information you need. You can even figure out the mood of the sentence and if it is positive or negative. 
  - Read and write files or summarise data that is all over the place in different file formats in different directories.
@@ -63,9 +63,10 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NjI4NTk0NiwtNzQ0MjQxMTkwLDM3NT
-M4MDA3MCwxMzc4NzI1MTQ4LC0xNDk5NTE2MTQ3LDM4MTkyMDUw
-MCwxNTQ1MTI2NzI1LC02NjQ4ODY3MzgsLTEzMzMzNzk2MjEsLT
-c5MDE0NTE2OCwtMTE3MDkzNDc2OCwtMTU3MTExMDk4NiwxMTk5
-ODE1ODQ4LC0xNTMxMDI4OTgyLDE2MDY1NTU0MF19
+eyJoaXN0b3J5IjpbODY3MjI2Mjk5LDEwNTYyODU5NDYsLTc0ND
+I0MTE5MCwzNzUzODAwNzAsMTM3ODcyNTE0OCwtMTQ5OTUxNjE0
+NywzODE5MjA1MDAsMTU0NTEyNjcyNSwtNjY0ODg2NzM4LC0xMz
+MzMzc5NjIxLC03OTAxNDUxNjgsLTExNzA5MzQ3NjgsLTE1NzEx
+MTA5ODYsMTE5OTgxNTg0OCwtMTUzMTAyODk4MiwxNjA2NTU1ND
+BdfQ==
 -->

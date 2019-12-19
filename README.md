@@ -42,11 +42,10 @@ If your project is technical in nature, it will pay dividends if you enlist a sp
 
 ---
 # Tools we use
-Mastery happens if you do something long enough. We have used these tools in different scenarios a number of times and would like to think that the experience that we have gained will be helpful to you. 
 
-Years of using these tools means we have good conceptual knowledge and big picture thinking. Understanding how some tools are better used for some solutions rather than others. 
+We specialise. Tools are only as good as how you use them. Having used the same tools for many years and in such different scenarios
 
-We specialise. Have used the same tools for many years and would like to think that that makes us think that we can give you the best advise and service among the best in the world. 
+Have used the same tools for many years and would like to think that that makes us think that we can give you the best advise and service among the best in the world. 
 
 ## Microsoft Excel
 Properly implemented, MS Excel is a tool kit for your business. It gives you a basis to look deeper into your business, build models and help you to focus and shine a light on the numbers in your business that really matter.
@@ -65,10 +64,10 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzODk3NTU2NCwtNjg2OTc1NzMwLC0xOD
-Q0NTY1MDk2LDEwNTYyODU5NDYsLTc0NDI0MTE5MCwzNzUzODAw
-NzAsMTM3ODcyNTE0OCwtMTQ5OTUxNjE0NywzODE5MjA1MDAsMT
-U0NTEyNjcyNSwtNjY0ODg2NzM4LC0xMzMzMzc5NjIxLC03OTAx
-NDUxNjgsLTExNzA5MzQ3NjgsLTE1NzExMTA5ODYsMTE5OTgxNT
-g0OCwtMTUzMTAyODk4MiwxNjA2NTU1NDBdfQ==
+eyJoaXN0b3J5IjpbODM5OTc4NDY1LC02ODY5NzU3MzAsLTE4ND
+Q1NjUwOTYsMTA1NjI4NTk0NiwtNzQ0MjQxMTkwLDM3NTM4MDA3
+MCwxMzc4NzI1MTQ4LC0xNDk5NTE2MTQ3LDM4MTkyMDUwMCwxNT
+Q1MTI2NzI1LC02NjQ4ODY3MzgsLTEzMzMzNzk2MjEsLTc5MDE0
+NTE2OCwtMTE3MDkzNDc2OCwtMTU3MTExMDk4NiwxMTk5ODE1OD
+Q4LC0xNTMxMDI4OTgyLDE2MDY1NTU0MF19
 -->

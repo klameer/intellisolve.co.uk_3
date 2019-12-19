@@ -45,8 +45,8 @@ If your project is technical in nature, it will pay dividends if you enlist a sp
 
 We specialise. Tools are only as good as how you use them. Having used the same tools for many years and in such different scenarios we can leverage these skills to help you solve your some of your business problems in the best way possible. 
 
-
 ## Microsoft Excel
+The language of finance is written in Excel and even though there are alternatives out there, 
 Properly implemented, MS Excel is a tool kit for your business. It gives you a basis to look deeper into your business, build models and help you to focus and shine a light on the numbers in your business that really matter.
 
 ## VBA
@@ -63,10 +63,11 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODM0OTQwODUsLTY4Njk3NTczMCwtMT
-g0NDU2NTA5NiwxMDU2Mjg1OTQ2LC03NDQyNDExOTAsMzc1Mzgw
-MDcwLDEzNzg3MjUxNDgsLTE0OTk1MTYxNDcsMzgxOTIwNTAwLD
-E1NDUxMjY3MjUsLTY2NDg4NjczOCwtMTMzMzM3OTYyMSwtNzkw
-MTQ1MTY4LC0xMTcwOTM0NzY4LC0xNTcxMTEwOTg2LDExOTk4MT
-U4NDgsLTE1MzEwMjg5ODIsMTYwNjU1NTQwXX0=
+eyJoaXN0b3J5IjpbLTIwODgxNDcxODIsLTE4ODM0OTQwODUsLT
+Y4Njk3NTczMCwtMTg0NDU2NTA5NiwxMDU2Mjg1OTQ2LC03NDQy
+NDExOTAsMzc1MzgwMDcwLDEzNzg3MjUxNDgsLTE0OTk1MTYxND
+csMzgxOTIwNTAwLDE1NDUxMjY3MjUsLTY2NDg4NjczOCwtMTMz
+MzM3OTYyMSwtNzkwMTQ1MTY4LC0xMTcwOTM0NzY4LC0xNTcxMT
+EwOTg2LDExOTk4MTU4NDgsLTE1MzEwMjg5ODIsMTYwNjU1NTQw
+XX0=
 -->

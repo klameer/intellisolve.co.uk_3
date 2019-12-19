@@ -60,13 +60,15 @@ A general purpose programming language that has many applications in the busines
 ## Project Management
 Although this is not a product, proper project management means understanding your requirement as early and as accurately as possible to deliver the best solution for your requirement. We have a proven methodology that has worked in the past that deals with all the steps to increase the likelihood of successful delivery.
 
+# Case Studies
+## Modelling Global Data Storage
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5ODU0NzA1LDY5MTExOTg3NSwtMjAxOT
-ExMjc1NywxNzg0NzE3MTIwLC0xODgzNDk0MDg1LC02ODY5NzU3
-MzAsLTE4NDQ1NjUwOTYsMTA1NjI4NTk0NiwtNzQ0MjQxMTkwLD
-M3NTM4MDA3MCwxMzc4NzI1MTQ4LC0xNDk5NTE2MTQ3LDM4MTky
-MDUwMCwxNTQ1MTI2NzI1LC02NjQ4ODY3MzgsLTEzMzMzNzk2Mj
-EsLTc5MDE0NTE2OCwtMTE3MDkzNDc2OCwtMTU3MTExMDk4Niwx
-MTk5ODE1ODQ4XX0=
+eyJoaXN0b3J5IjpbMjA4NDc5NjI4MCw2OTExMTk4NzUsLTIwMT
+kxMTI3NTcsMTc4NDcxNzEyMCwtMTg4MzQ5NDA4NSwtNjg2OTc1
+NzMwLC0xODQ0NTY1MDk2LDEwNTYyODU5NDYsLTc0NDI0MTE5MC
+wzNzUzODAwNzAsMTM3ODcyNTE0OCwtMTQ5OTUxNjE0NywzODE5
+MjA1MDAsMTU0NTEyNjcyNSwtNjY0ODg2NzM4LC0xMzMzMzc5Nj
+IxLC03OTAxNDUxNjgsLTExNzA5MzQ3NjgsLTE1NzExMTA5ODYs
+MTE5OTgxNTg0OF19
 -->

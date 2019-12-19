@@ -58,14 +58,14 @@ Probably the most underused application in the MS Office suite. MS Access is a d
 A general purpose programming language that has many applications in the business world. Python has useful and mature libraries for solving problems like data processing, statistics, data visualisation and even building web applications. Python can even help you run prediction algorithms on your data and has visualisation tools to deep dive into your data. 
 
 ## Project Management
-Although this is not a product, proper project management means understanding your requirement as early and as accurately as possible to deliver the best solution for your requirement. We have a proven methodology that has worked in the past that deals with all  
-Although this is not a product it is a methodology. 
+Although this is not a product, proper project management means understanding your requirement as early and as accurately as possible to deliver the best solution for your requirement. We have a proven methodology that has worked in the past that deals with all the steps to increase the likelihood of successful delivery.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzI2OTM3MjIsLTIwMTkxMTI3NTcsMT
-c4NDcxNzEyMCwtMTg4MzQ5NDA4NSwtNjg2OTc1NzMwLC0xODQ0
-NTY1MDk2LDEwNTYyODU5NDYsLTc0NDI0MTE5MCwzNzUzODAwNz
-AsMTM3ODcyNTE0OCwtMTQ5OTUxNjE0NywzODE5MjA1MDAsMTU0
-NTEyNjcyNSwtNjY0ODg2NzM4LC0xMzMzMzc5NjIxLC03OTAxND
-UxNjgsLTExNzA5MzQ3NjgsLTE1NzExMTA5ODYsMTE5OTgxNTg0
-OCwtMTUzMTAyODk4Ml19
+eyJoaXN0b3J5IjpbNjkxMTE5ODc1LC0yMDE5MTEyNzU3LDE3OD
+Q3MTcxMjAsLTE4ODM0OTQwODUsLTY4Njk3NTczMCwtMTg0NDU2
+NTA5NiwxMDU2Mjg1OTQ2LC03NDQyNDExOTAsMzc1MzgwMDcwLD
+EzNzg3MjUxNDgsLTE0OTk1MTYxNDcsMzgxOTIwNTAwLDE1NDUx
+MjY3MjUsLTY2NDg4NjczOCwtMTMzMzM3OTYyMSwtNzkwMTQ1MT
+Y4LC0xMTcwOTM0NzY4LC0xNTcxMTEwOTg2LDExOTk4MTU4NDgs
+LTE1MzEwMjg5ODJdfQ==
 -->

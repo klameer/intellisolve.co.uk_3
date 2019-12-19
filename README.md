@@ -42,7 +42,8 @@ If your project is technical in nature, it will pay dividends if you enlist a sp
 
 ---
 # Tools we use
-Years of using these tools means we have good conceptual knowledge and big picture thinking. There are 
+Years of using these tools means we have good conceptual knowledge and big picture thinking. Understanding how some tools are better used for some solutions rather than others. 
+
 We specialise. Have used the same tools for many years and would like to think that that makes us think that we can give you the best advise and service among the best in the world. 
 
 ## Microsoft Excel
@@ -62,10 +63,10 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNzQ2NzkzLC0xODQ0NTY1MDk2LDEwNT
-YyODU5NDYsLTc0NDI0MTE5MCwzNzUzODAwNzAsMTM3ODcyNTE0
-OCwtMTQ5OTUxNjE0NywzODE5MjA1MDAsMTU0NTEyNjcyNSwtNj
-Y0ODg2NzM4LC0xMzMzMzc5NjIxLC03OTAxNDUxNjgsLTExNzA5
-MzQ3NjgsLTE1NzExMTA5ODYsMTE5OTgxNTg0OCwtMTUzMTAyOD
-k4MiwxNjA2NTU1NDBdfQ==
+eyJoaXN0b3J5IjpbLTY4Njk3NTczMCwtMTg0NDU2NTA5NiwxMD
+U2Mjg1OTQ2LC03NDQyNDExOTAsMzc1MzgwMDcwLDEzNzg3MjUx
+NDgsLTE0OTk1MTYxNDcsMzgxOTIwNTAwLDE1NDUxMjY3MjUsLT
+Y2NDg4NjczOCwtMTMzMzM3OTYyMSwtNzkwMTQ1MTY4LC0xMTcw
+OTM0NzY4LC0xNTcxMTEwOTg2LDExOTk4MTU4NDgsLTE1MzEwMj
+g5ODIsMTYwNjU1NTQwXX0=
 -->

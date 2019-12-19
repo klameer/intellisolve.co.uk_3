@@ -46,8 +46,7 @@ If your project is technical in nature, it will pay dividends if you enlist a sp
 We specialise. Tools are only as good as how you use them. Having used the same tools for many years and in such different scenarios we can leverage these skills to help you solve your some of your business problems in the best way possible. 
 
 ## Microsoft Excel
-The language of finance is written in Excel and even though there are alternatives out there, if your finance department has a computer, chances are that they will have a version of Excel running on it. The popularity of Excel is due to its flec
-Properly implemented, MS Excel is a tool kit for your business. It gives you a basis to look deeper into your business, build models and help you to focus and shine a light on the numbers in your business that really matter.
+The language of finance is written in Excel and even though there are alternatives out there, if your finance department has a computer, chances are that they will have a version of Excel running on it. The popularity of Excel is due to its flexibility. A spreadsheet can be many things. A report, a data set, a model and even a prediction of the future. 
 
 ## VBA
 VBA is a programming language within the MS Office suite of applications that allows you to extend their functionality. The scripts or macros allow you to build custom solutions to your business requirements.
@@ -63,11 +62,11 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDM0NzA5LC0xODgzNDk0MDg1LC02OD
-Y5NzU3MzAsLTE4NDQ1NjUwOTYsMTA1NjI4NTk0NiwtNzQ0MjQx
-MTkwLDM3NTM4MDA3MCwxMzc4NzI1MTQ4LC0xNDk5NTE2MTQ3LD
-M4MTkyMDUwMCwxNTQ1MTI2NzI1LC02NjQ4ODY3MzgsLTEzMzMz
-Nzk2MjEsLTc5MDE0NTE2OCwtMTE3MDkzNDc2OCwtMTU3MTExMD
-k4NiwxMTk5ODE1ODQ4LC0xNTMxMDI4OTgyLDE2MDY1NTU0MF19
-
+eyJoaXN0b3J5IjpbLTE2MzUzNDQ4NTAsLTE4ODM0OTQwODUsLT
+Y4Njk3NTczMCwtMTg0NDU2NTA5NiwxMDU2Mjg1OTQ2LC03NDQy
+NDExOTAsMzc1MzgwMDcwLDEzNzg3MjUxNDgsLTE0OTk1MTYxND
+csMzgxOTIwNTAwLDE1NDUxMjY3MjUsLTY2NDg4NjczOCwtMTMz
+MzM3OTYyMSwtNzkwMTQ1MTY4LC0xMTcwOTM0NzY4LC0xNTcxMT
+EwOTg2LDExOTk4MTU4NDgsLTE1MzEwMjg5ODIsMTYwNjU1NTQw
+XX0=
 -->

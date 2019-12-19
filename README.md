@@ -55,7 +55,8 @@ VBA allows you to enhance Excel and other MS Office programs by allowing you to 
 Probably the most underused application in the MS Office suite. MS Access is a desktop relational database. This means you can have a lot of the functionality of a RDMS like organising and querying large amounts of data. It provides great functionality for small to medium sized businesses to build solutions on. 
 
 ## Python
-A general purpose programming language that has many applications in the business world. Python has useful and mature libraries for solving pr
+A general purpose programming language that has many applications in the business world. Python has useful and mature libraries for solving problems like data processing, statistics, data visualisation and even building web applications. Python can even help you run prediction algorithms on your data and has visualisation tools 
+
 A general purpose programming language that could be used to solve business problems. Python has a widely used set of libraries that can be used to do things like data processing, statistics, data visualisation and even building web applications.
 Python Pandas. 
 SciKitLearn
@@ -63,7 +64,7 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NDc5OTc4MiwxNzg0NzE3MTIwLC0xOD
+eyJoaXN0b3J5IjpbLTg0MTUzNjcwNSwxNzg0NzE3MTIwLC0xOD
 gzNDk0MDg1LC02ODY5NzU3MzAsLTE4NDQ1NjUwOTYsMTA1NjI4
 NTk0NiwtNzQ0MjQxMTkwLDM3NTM4MDA3MCwxMzc4NzI1MTQ4LC
 0xNDk5NTE2MTQ3LDM4MTkyMDUwMCwxNTQ1MTI2NzI1LC02NjQ4

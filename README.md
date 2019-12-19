@@ -42,7 +42,8 @@ If your project is technical in nature, it will pay dividends if you enlist a sp
 
 ---
 # Tools we use
-Mastery happens if you do something long enough. We have used these tools in different scenarios a number of times and would like to think that 
+Mastery happens if you do something long enough. We have used these tools in different scenarios a number of times and would like to think that the experience that we have gained will be helpful to you. 
+
 Years of using these tools means we have good conceptual knowledge and big picture thinking. Understanding how some tools are better used for some solutions rather than others. 
 
 We specialise. Have used the same tools for many years and would like to think that that makes us think that we can give you the best advise and service among the best in the world. 
@@ -64,7 +65,7 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NzE1NDUyNSwtNjg2OTc1NzMwLC0xOD
+eyJoaXN0b3J5IjpbMTUzODk3NTU2NCwtNjg2OTc1NzMwLC0xOD
 Q0NTY1MDk2LDEwNTYyODU5NDYsLTc0NDI0MTE5MCwzNzUzODAw
 NzAsMTM3ODcyNTE0OCwtMTQ5OTUxNjE0NywzODE5MjA1MDAsMT
 U0NTEyNjcyNSwtNjY0ODg2NzM4LC0xMzMzMzc5NjIxLC03OTAx

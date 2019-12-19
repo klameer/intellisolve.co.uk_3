@@ -55,20 +55,17 @@ VBA allows you to enhance Excel and other MS Office programs by allowing you to 
 Probably the most underused application in the MS Office suite. MS Access is a desktop relational database. This means you can have a lot of the functionality of a RDMS like organising and querying large amounts of data. It provides great functionality for small to medium sized businesses to build solutions on. 
 
 ## Python
-A general purpose programming language that has many applications in the business world. Python has useful and mature libraries for solving problems like data processing, statistics, data visualisation and even building web applications. Python can even help you run prediction algorithms on your data and has visualisation tools 
+A general purpose programming language that has many applications in the business world. Python has useful and mature libraries for solving problems like data processing, statistics, data visualisation and even building web applications. Python can even help you run prediction algorithms on your data and has visualisation tools to deep dive into your data. 
 
-A general purpose programming language that could be used to solve business problems. Python has a widely used set of libraries that can be used to do things like data processing, statistics, data visualisation and even building web applications.
-Python Pandas. 
-SciKitLearn
 
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MTUzNjcwNSwxNzg0NzE3MTIwLC0xOD
-gzNDk0MDg1LC02ODY5NzU3MzAsLTE4NDQ1NjUwOTYsMTA1NjI4
-NTk0NiwtNzQ0MjQxMTkwLDM3NTM4MDA3MCwxMzc4NzI1MTQ4LC
-0xNDk5NTE2MTQ3LDM4MTkyMDUwMCwxNTQ1MTI2NzI1LC02NjQ4
-ODY3MzgsLTEzMzMzNzk2MjEsLTc5MDE0NTE2OCwtMTE3MDkzND
-c2OCwtMTU3MTExMDk4NiwxMTk5ODE1ODQ4LC0xNTMxMDI4OTgy
-LDE2MDY1NTU0MF19
+eyJoaXN0b3J5IjpbLTIwMTkxMTI3NTcsMTc4NDcxNzEyMCwtMT
+g4MzQ5NDA4NSwtNjg2OTc1NzMwLC0xODQ0NTY1MDk2LDEwNTYy
+ODU5NDYsLTc0NDI0MTE5MCwzNzUzODAwNzAsMTM3ODcyNTE0OC
+wtMTQ5OTUxNjE0NywzODE5MjA1MDAsMTU0NTEyNjcyNSwtNjY0
+ODg2NzM4LC0xMzMzMzc5NjIxLC03OTAxNDUxNjgsLTExNzA5Mz
+Q3NjgsLTE1NzExMTA5ODYsMTE5OTgxNTg0OCwtMTUzMTAyODk4
+MiwxNjA2NTU1NDBdfQ==
 -->

@@ -49,7 +49,7 @@ We specialise. Tools are only as good as how you use them. Having used the same 
 The language of finance is written in Excel and even though there are alternatives out there, if your finance department has a computer, chances are that they will have a version of Excel running on it. The popularity of Excel is due to its flexibility. A spreadsheet can be many things. A report, a data set, a model and even a prediction of the future. 
 
 ## VBA
-
+VBA allows you to enhance Excel and other MS Office programs by allowing you to write code to enhance their functionality. This includes doing things like automating processes 
 VBA is a programming language within the MS Office suite of applications that allows you to extend their functionality. The scripts or macros allow you to build custom solutions to your business requirements.
 
 ## MS Access
@@ -63,11 +63,11 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NDcxNzEyMCwtMTg4MzQ5NDA4NSwtNj
-g2OTc1NzMwLC0xODQ0NTY1MDk2LDEwNTYyODU5NDYsLTc0NDI0
-MTE5MCwzNzUzODAwNzAsMTM3ODcyNTE0OCwtMTQ5OTUxNjE0Ny
-wzODE5MjA1MDAsMTU0NTEyNjcyNSwtNjY0ODg2NzM4LC0xMzMz
-Mzc5NjIxLC03OTAxNDUxNjgsLTExNzA5MzQ3NjgsLTE1NzExMT
-A5ODYsMTE5OTgxNTg0OCwtMTUzMTAyODk4MiwxNjA2NTU1NDBd
-fQ==
+eyJoaXN0b3J5IjpbNzcwNzQyMDUwLDE3ODQ3MTcxMjAsLTE4OD
+M0OTQwODUsLTY4Njk3NTczMCwtMTg0NDU2NTA5NiwxMDU2Mjg1
+OTQ2LC03NDQyNDExOTAsMzc1MzgwMDcwLDEzNzg3MjUxNDgsLT
+E0OTk1MTYxNDcsMzgxOTIwNTAwLDE1NDUxMjY3MjUsLTY2NDg4
+NjczOCwtMTMzMzM3OTYyMSwtNzkwMTQ1MTY4LC0xMTcwOTM0Nz
+Y4LC0xNTcxMTEwOTg2LDExOTk4MTU4NDgsLTE1MzEwMjg5ODIs
+MTYwNjU1NTQwXX0=
 -->

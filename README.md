@@ -52,7 +52,7 @@ The language of finance is written in Excel and even though there are alternativ
 VBA allows you to enhance Excel and other MS Office programs by allowing you to write code to enhance their functionality. This includes doing things like automating repetitive functions and create custom solutions with a rich set of tools provided by Microsoft. 
 
 ## MS Access
-Probably the most underused application in the MS Office suite. MS Access is a desktop relational database. This me
+Probably the most underused application in the MS Office suite. MS Access is a desktop relational database. This means you can have a lot of the functionality of a RDMS like organising and querying large amounts of data. 
 
 Gives you the ability to bring together or maintain large amounts of data that can be consolidated and reported upon.
 
@@ -64,11 +64,11 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjAyODQ3LDE3ODQ3MTcxMjAsLTE4OD
-M0OTQwODUsLTY4Njk3NTczMCwtMTg0NDU2NTA5NiwxMDU2Mjg1
-OTQ2LC03NDQyNDExOTAsMzc1MzgwMDcwLDEzNzg3MjUxNDgsLT
-E0OTk1MTYxNDcsMzgxOTIwNTAwLDE1NDUxMjY3MjUsLTY2NDg4
-NjczOCwtMTMzMzM3OTYyMSwtNzkwMTQ1MTY4LC0xMTcwOTM0Nz
-Y4LC0xNTcxMTEwOTg2LDExOTk4MTU4NDgsLTE1MzEwMjg5ODIs
-MTYwNjU1NTQwXX0=
+eyJoaXN0b3J5IjpbLTE5Mzg0NjY3MjEsMTc4NDcxNzEyMCwtMT
+g4MzQ5NDA4NSwtNjg2OTc1NzMwLC0xODQ0NTY1MDk2LDEwNTYy
+ODU5NDYsLTc0NDI0MTE5MCwzNzUzODAwNzAsMTM3ODcyNTE0OC
+wtMTQ5OTUxNjE0NywzODE5MjA1MDAsMTU0NTEyNjcyNSwtNjY0
+ODg2NzM4LC0xMzMzMzc5NjIxLC03OTAxNDUxNjgsLTExNzA5Mz
+Q3NjgsLTE1NzExMTA5ODYsMTE5OTgxNTg0OCwtMTUzMTAyODk4
+MiwxNjA2NTU1NDBdfQ==
 -->

@@ -43,7 +43,7 @@ If your project is technical in nature, it will pay dividends if you enlist a sp
 ---
 # Tools we use
 
-We specialise. Tools are only as good as how you use them. Having used the same tools for many years and in such different scenarios
+We specialise. Tools are only as good as how you use them. Having used the same tools for many years and in such different scenarios we can leverage these skills to help you solve hard 
 
 Have used the same tools for many years and would like to think that that makes us think that we can give you the best advise and service among the best in the world. 
 
@@ -64,7 +64,7 @@ SciKitLearn
 ## Project Delivery
 Although this is not a product it is a methodology. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM5OTc4NDY1LC02ODY5NzU3MzAsLTE4ND
+eyJoaXN0b3J5IjpbLTMzMzc0NjU2LC02ODY5NzU3MzAsLTE4ND
 Q1NjUwOTYsMTA1NjI4NTk0NiwtNzQ0MjQxMTkwLDM3NTM4MDA3
 MCwxMzc4NzI1MTQ4LC0xNDk5NTE2MTQ3LDM4MTkyMDUwMCwxNT
 Q1MTI2NzI1LC02NjQ4ODY3MzgsLTEzMzMzNzk2MjEsLTc5MDE0

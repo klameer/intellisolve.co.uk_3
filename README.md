@@ -64,17 +64,23 @@ Although this is not a product, proper project management means understanding yo
 ## Modelling Global Data Storage
 A well organised financial model shines a light onto the the variables in the enterprise that matter as well as the relationships between components of the model. Users should be be able to easily see how changes in one variable influences changes in another variable. Although all financial models are different, there are best practices that can be applied that can make the models easier to use and more insightful. 
 
-## The Challenge
+### The Challenge
 Create a data/financial model that shows the state of enterprise data storage. The model should give the ability to slice data by different dimensions such as line of business and type of hardware. The model should also summarise the current global view of storage and predict the future storage requirement based growth. The model should be able to run different scenarios to highlight what would happen in these alternate realities.
 
-## The Solution
+### The Solution
+This was a two fold solution, first building a consolidated operational data model based on the HSBC global estate. The financial side of the operational was presented separately. The model included a parameters section where all the variables were presented in one place along with the summary of the entire model. Here users could easily see the impact a change in one variable had in the rest of the model. This made it easy for users to consider alternative scenarios for enterprise storage in the short to long term.
+
+### The Result
+Using Intellisolve's business centric methodology for creating financial models meant the end product was created using a framework that was guaranteed to deliver a useful solution. The final model clearly showed the relationships between the various components and gave executives overall visibility of the interactions between components. The final product highlighted the areas where significant costs could be saved.
+
+## Financial Modelling at Barclays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMTM0NjE3NywyMDg0Nzk2MjgwLDY5MT
-ExOTg3NSwtMjAxOTExMjc1NywxNzg0NzE3MTIwLC0xODgzNDk0
-MDg1LC02ODY5NzU3MzAsLTE4NDQ1NjUwOTYsMTA1NjI4NTk0Ni
-wtNzQ0MjQxMTkwLDM3NTM4MDA3MCwxMzc4NzI1MTQ4LC0xNDk5
-NTE2MTQ3LDM4MTkyMDUwMCwxNTQ1MTI2NzI1LC02NjQ4ODY3Mz
-gsLTEzMzMzNzk2MjEsLTc5MDE0NTE2OCwtMTE3MDkzNDc2OCwt
-MTU3MTExMDk4Nl19
+eyJoaXN0b3J5IjpbLTIwMjMwNjc3NjcsMjA4NDc5NjI4MCw2OT
+ExMTk4NzUsLTIwMTkxMTI3NTcsMTc4NDcxNzEyMCwtMTg4MzQ5
+NDA4NSwtNjg2OTc1NzMwLC0xODQ0NTY1MDk2LDEwNTYyODU5ND
+YsLTc0NDI0MTE5MCwzNzUzODAwNzAsMTM3ODcyNTE0OCwtMTQ5
+OTUxNjE0NywzODE5MjA1MDAsMTU0NTEyNjcyNSwtNjY0ODg2Nz
+M4LC0xMzMzMzc5NjIxLC03OTAxNDUxNjgsLTExNzA5MzQ3Njgs
+LTE1NzExMTA5ODZdfQ==
 -->

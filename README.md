@@ -62,13 +62,13 @@ Although this is not a product, proper project management means understanding yo
 
 # Case Studies
 ## Modelling Global Data Storage
-
+A well organised financial model shines a light onto the the variables in the enterpris
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NDc5NjI4MCw2OTExMTk4NzUsLTIwMT
-kxMTI3NTcsMTc4NDcxNzEyMCwtMTg4MzQ5NDA4NSwtNjg2OTc1
-NzMwLC0xODQ0NTY1MDk2LDEwNTYyODU5NDYsLTc0NDI0MTE5MC
-wzNzUzODAwNzAsMTM3ODcyNTE0OCwtMTQ5OTUxNjE0NywzODE5
-MjA1MDAsMTU0NTEyNjcyNSwtNjY0ODg2NzM4LC0xMzMzMzc5Nj
-IxLC03OTAxNDUxNjgsLTExNzA5MzQ3NjgsLTE1NzExMTA5ODYs
-MTE5OTgxNTg0OF19
+eyJoaXN0b3J5IjpbLTExMjkzNjkzNjEsMjA4NDc5NjI4MCw2OT
+ExMTk4NzUsLTIwMTkxMTI3NTcsMTc4NDcxNzEyMCwtMTg4MzQ5
+NDA4NSwtNjg2OTc1NzMwLC0xODQ0NTY1MDk2LDEwNTYyODU5ND
+YsLTc0NDI0MTE5MCwzNzUzODAwNzAsMTM3ODcyNTE0OCwtMTQ5
+OTUxNjE0NywzODE5MjA1MDAsMTU0NTEyNjcyNSwtNjY0ODg2Nz
+M4LC0xMzMzMzc5NjIxLC03OTAxNDUxNjgsLTExNzA5MzQ3Njgs
+LTE1NzExMTA5ODZdfQ==
 -->

@@ -62,13 +62,13 @@ Although this is not a product, proper project management means understanding yo
 
 # Case Studies
 ## Modelling Global Data Storage
-A well organised financial model shines a light onto the the variables in the enterpris
+A well organised financial model shines a light onto the the variables in the enterprise that matter as well as the relationships between components of the model. Users should be be able to easily see how changes in one variable influences changes in another variable. A
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjkzNjkzNjEsMjA4NDc5NjI4MCw2OT
-ExMTk4NzUsLTIwMTkxMTI3NTcsMTc4NDcxNzEyMCwtMTg4MzQ5
-NDA4NSwtNjg2OTc1NzMwLC0xODQ0NTY1MDk2LDEwNTYyODU5ND
-YsLTc0NDI0MTE5MCwzNzUzODAwNzAsMTM3ODcyNTE0OCwtMTQ5
-OTUxNjE0NywzODE5MjA1MDAsMTU0NTEyNjcyNSwtNjY0ODg2Nz
-M4LC0xMzMzMzc5NjIxLC03OTAxNDUxNjgsLTExNzA5MzQ3Njgs
-LTE1NzExMTA5ODZdfQ==
+eyJoaXN0b3J5IjpbLTI3OTkwNDM1OSwyMDg0Nzk2MjgwLDY5MT
+ExOTg3NSwtMjAxOTExMjc1NywxNzg0NzE3MTIwLC0xODgzNDk0
+MDg1LC02ODY5NzU3MzAsLTE4NDQ1NjUwOTYsMTA1NjI4NTk0Ni
+wtNzQ0MjQxMTkwLDM3NTM4MDA3MCwxMzc4NzI1MTQ4LC0xNDk5
+NTE2MTQ3LDM4MTkyMDUwMCwxNTQ1MTI2NzI1LC02NjQ4ODY3Mz
+gsLTEzMzMzNzk2MjEsLTc5MDE0NTE2OCwtMTE3MDkzNDc2OCwt
+MTU3MTExMDk4Nl19
 -->

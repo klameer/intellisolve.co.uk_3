@@ -74,13 +74,34 @@ This was a two fold solution, first building a consolidated operational data mod
 Using Intellisolve's business centric methodology for creating financial models meant the end product was created using a framework that was guaranteed to deliver a useful solution. The final model clearly showed the relationships between the various components and gave executives overall visibility of the interactions between components. The final product highlighted the areas where significant costs could be saved.
 
 ## Financial Modelling at Barclays
+A well organized financial model shines a spotlight on the elements of the enterprise that guarantee success and the relationship between the components of the model. Users should be able to see how making a change in one of the components affects the others. At intellisolve, we have a standard methodology of creating models that focuses on business goals first. We then use our expertise in Excel to make these items stand out so that the finance can see what they need to focus on.
 
+### The Challenge
+Create a financial model that shows the state of global enterprise data storage. The model should give the ability to slice data by different dimensions such as line of business and type of hardware. The model should also summarize the current global view of storage and predict the future storage requirement based growth. The model should be able to run different scenarios to highlight what would happen in these alternate realities.
+
+### The Solution
+This was a two fold solution, first building a consolidated operational data model based on the Barclays global estate. The financial side of the operational was presented separately. The model included a parameters section where all the variables were presented in one place along with the summary of the entire model. Here users could easily see the impact a change in one variable had in the rest of the model. This made it easy for users to consider alternative scenarios for enterprise storage in the short to long term.
+
+### The Result
+Using Intellisolve's business centric methodology for creating financial models meant the end product was created using a framework that was guaranteed to deliver a useful solution. The final model clearly showed the relationships between the various components and gave executives overall visibility of the interactions between components. The final product highlighted the areas where significant costs could be saved.
+
+## Statistical Modelling Project at MF Global
+
+A statistical model takes the guesswork out of thinking there are patterns in your data. Using a statistical model, you can mathematically prove if there are relationships between elements of a dataset and if so you can assign a number to the degree of the relationship. When you model real world data, relationships are a grey area. There are exceptions to rules due to the complexity of real world interactions. Intellisolve sets up statistical models the same way as financial models, focusing on the business need first and building the model around that.
+
+### The Challenge
+
+Take a list of 10,000+ stock price movements and group them into similar transactions. Once the transactions were grouped, run simulations to infer the best trading strategies for specific categories of transactions. Once the best trading strategies were figured out, run optimization algorithms to infer the best parameters for the trading strategies to minimize risk while optimizing profit. All this to be put into a standard reporting format for further analysis.
+
+### The Solution
+
+A proper statistical and data analysis solution implemented within an agile framework to give the most relevant solution in the least possible time. Intellisolve has a standard methodology of delivering analysis solutions that has worked well in the past. The share price movements were held in a master data set. The solution was organized in such a way that the parameters could be changed in order to run simulations and scenario analysis and eventually work out the best trading strategies for specific categories of transactions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjMwNjc3NjcsMjA4NDc5NjI4MCw2OT
-ExMTk4NzUsLTIwMTkxMTI3NTcsMTc4NDcxNzEyMCwtMTg4MzQ5
-NDA4NSwtNjg2OTc1NzMwLC0xODQ0NTY1MDk2LDEwNTYyODU5ND
-YsLTc0NDI0MTE5MCwzNzUzODAwNzAsMTM3ODcyNTE0OCwtMTQ5
-OTUxNjE0NywzODE5MjA1MDAsMTU0NTEyNjcyNSwtNjY0ODg2Nz
-M4LC0xMzMzMzc5NjIxLC03OTAxNDUxNjgsLTExNzA5MzQ3Njgs
-LTE1NzExMTA5ODZdfQ==
+eyJoaXN0b3J5IjpbNzIwNjIzOTI0LDIwODQ3OTYyODAsNjkxMT
+E5ODc1LC0yMDE5MTEyNzU3LDE3ODQ3MTcxMjAsLTE4ODM0OTQw
+ODUsLTY4Njk3NTczMCwtMTg0NDU2NTA5NiwxMDU2Mjg1OTQ2LC
+03NDQyNDExOTAsMzc1MzgwMDcwLDEzNzg3MjUxNDgsLTE0OTk1
+MTYxNDcsMzgxOTIwNTAwLDE1NDUxMjY3MjUsLTY2NDg4NjczOC
+wtMTMzMzM3OTYyMSwtNzkwMTQ1MTY4LC0xMTcwOTM0NzY4LC0x
+NTcxMTEwOTg2XX0=
 -->

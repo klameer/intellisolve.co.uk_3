@@ -63,9 +63,14 @@ Although this is not a product, proper project management means understanding yo
 # Case Studies
 ## Modelling Global Data Storage
 A well organised financial model shines a light onto the the variables in the enterprise that matter as well as the relationships between components of the model. Users should be be able to easily see how changes in one variable influences changes in another variable. Although all financial models are different, there are best practices that can be applied that can make the models easier to use and more insightful. 
-## The Ch
+
+## The Challenge
+Create a data/financial model that shows the state of enterprise data storage. The model should give the ability to slice data by different dimensions such as line of business and type of hardware. The model should also summarise the current global view of storage and predict the future storage requirement based growth. The model should be able to run different scenarios to highlight what would happen in these alternate realities.
+
+## The Solution
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNjcxMjcyMiwyMDg0Nzk2MjgwLDY5MT
+eyJoaXN0b3J5IjpbMTExMTM0NjE3NywyMDg0Nzk2MjgwLDY5MT
 ExOTg3NSwtMjAxOTExMjc1NywxNzg0NzE3MTIwLC0xODgzNDk0
 MDg1LC02ODY5NzU3MzAsLTE4NDQ1NjUwOTYsMTA1NjI4NTk0Ni
 wtNzQ0MjQxMTkwLDM3NTM4MDA3MCwxMzc4NzI1MTQ4LC0xNDk5

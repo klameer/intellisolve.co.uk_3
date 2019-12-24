@@ -96,12 +96,14 @@ Take a list of 10,000+ stock price movements and group them into similar transac
 ### The Solution
 
 A proper statistical and data analysis solution implemented within an agile framework to give the most relevant solution in the least possible time. Intellisolve has a standard methodology of delivering analysis solutions that has worked well in the past. The share price movements were held in a master data set. The solution was organized in such a way that the parameters could be changed in order to run simulations and scenario analysis and eventually work out the best trading strategies for specific categories of transactions.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIwNjIzOTI0LDIwODQ3OTYyODAsNjkxMT
-E5ODc1LC0yMDE5MTEyNzU3LDE3ODQ3MTcxMjAsLTE4ODM0OTQw
-ODUsLTY4Njk3NTczMCwtMTg0NDU2NTA5NiwxMDU2Mjg1OTQ2LC
-03NDQyNDExOTAsMzc1MzgwMDcwLDEzNzg3MjUxNDgsLTE0OTk1
-MTYxNDcsMzgxOTIwNTAwLDE1NDUxMjY3MjUsLTY2NDg4NjczOC
-wtMTMzMzM3OTYyMSwtNzkwMTQ1MTY4LC0xMTcwOTM0NzY4LC0x
-NTcxMTEwOTg2XX0=
+eyJoaXN0b3J5IjpbLTM0NjIwMDA0OCwyMDg0Nzk2MjgwLDY5MT
+ExOTg3NSwtMjAxOTExMjc1NywxNzg0NzE3MTIwLC0xODgzNDk0
+MDg1LC02ODY5NzU3MzAsLTE4NDQ1NjUwOTYsMTA1NjI4NTk0Ni
+wtNzQ0MjQxMTkwLDM3NTM4MDA3MCwxMzc4NzI1MTQ4LC0xNDk5
+NTE2MTQ3LDM4MTkyMDUwMCwxNTQ1MTI2NzI1LC02NjQ4ODY3Mz
+gsLTEzMzMzNzk2MjEsLTc5MDE0NTE2OCwtMTE3MDkzNDc2OCwt
+MTU3MTExMDk4Nl19
 -->

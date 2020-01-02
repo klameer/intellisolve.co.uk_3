@@ -227,12 +227,52 @@ The extracted data was copied onto a worksheet and this was then consolidated. I
 -   The resulting solution shortened the process of creating the data set from 1 week to half a day. The only delay being the time taken to update the patient systems with the latest data.
 -   Automation considerably improved the quality of the final dataset as it was less prone to human error.
 -   Reporting systems in place meant that management could see an overview of each dataset with checks in place to ensure data quality.
+
+---
+
+## Tried and Tested Process
+
+No two projects are alike but no two projects are entirely different. If you want to know what to expect when you engage with us have a look. It is designed to minimize any risk to you when getting your solution built.
+
+You will own the solution in the end and a good solution is a useful one. Because of this, collaboration is key. You know your business, you know your industry, you know the problem to be solved. We will provide the technical know how. Understanding requirements are key to this process and we will constantly confirm that our understanding is correct using an agile way of building solutions. Our priority is to deliver excellence and to keep you coming back.
+
+### Initial Enquiry
+
+One of the most crucial parts of the process and the foundation for a successful project. We spend time getting a real understanding of your business need and how we can provide you the best solution.
+
+### First Quotation
+
+Based on the initial inquiry the quotation will outline the process of delivering the solution to you. It will include a rough estimation of the timeframe involved.
+
+### Functional Specification
+
+If you are happy with the initial quotation, we will create a detailed specification of what will be delivered. It could involve a visit to your organisation or meetings with the people benefitting from the solution. The functional specification will go in to as much detail as possible into not only what will be done but also what will not be done. It will ensure that all parties are on the same page about what is expected.
+
+### Final Quotation
+
+Once we have an exact understanding of what you need, the final quotation will be submitted. The final quotation will include details of time and cost. If we are working with any of your staff then the we will propose times for meetings. We will try and be as accommodating to your timings as possible.
+
+### Project Development
+
+The project will commence on the terms of the final quotation. We will try to stick to the timetable. Any changes will be discussed and approved. You will always be kept up to date on what is happening with the project.
+
+### Testing
+
+The quickest ways to iron out bugs in a solution is to have a comprehensive testing strategy that tests all elements of the solution both at a functional level but also the inner workings as well. All the items in the functional specification above will be tested and a complete test report will be presented to make sure you are aware of what was tested.
+
+### Final Delivery
+
+After everyone is happy with the tests, the project will go live. You will be using what was built in your business. In addition to the project, Intellisolve will provide useful documents like user manuals and documentation about the solutions so it could be taken over at a future date if needed.
+
+### Post Project
+
+With more complex projects, you don't know about the delivery until the product has been used in the field. Because of this we provide an after sales service and guarantee to fix any bugs you may encounter for free.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDc4OTc4NTYsMjA4NDc5NjI4MCw2OT
-ExMTk4NzUsLTIwMTkxMTI3NTcsMTc4NDcxNzEyMCwtMTg4MzQ5
-NDA4NSwtNjg2OTc1NzMwLC0xODQ0NTY1MDk2LDEwNTYyODU5ND
-YsLTc0NDI0MTE5MCwzNzUzODAwNzAsMTM3ODcyNTE0OCwtMTQ5
-OTUxNjE0NywzODE5MjA1MDAsMTU0NTEyNjcyNSwtNjY0ODg2Nz
-M4LC0xMzMzMzc5NjIxLC03OTAxNDUxNjgsLTExNzA5MzQ3Njgs
-LTE1NzExMTA5ODZdfQ==
+eyJoaXN0b3J5IjpbMTA4MzA1NTA1MywtMTIwNzg5Nzg1NiwyMD
+g0Nzk2MjgwLDY5MTExOTg3NSwtMjAxOTExMjc1NywxNzg0NzE3
+MTIwLC0xODgzNDk0MDg1LC02ODY5NzU3MzAsLTE4NDQ1NjUwOT
+YsMTA1NjI4NTk0NiwtNzQ0MjQxMTkwLDM3NTM4MDA3MCwxMzc4
+NzI1MTQ4LC0xNDk5NTE2MTQ3LDM4MTkyMDUwMCwxNTQ1MTI2Nz
+I1LC02NjQ4ODY3MzgsLTEzMzMzNzk2MjEsLTc5MDE0NTE2OCwt
+MTE3MDkzNDc2OF19
 -->
